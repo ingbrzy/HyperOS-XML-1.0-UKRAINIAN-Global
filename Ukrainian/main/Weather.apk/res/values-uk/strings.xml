@@ -157,7 +157,6 @@
     <string name="dynamic_weather">Погода</string>
     <string name="early_morning">Ранок</string>
     <string name="edit_city">Керувати містами</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Оновлення…</string>
     <string name="empty_view_net_unavailable">Не вдалося підключитися до мережі</string>
     <string name="empty_view_refresh">Повторити спробу</string>
@@ -267,7 +266,6 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="hourly_forcast_now">Зараз</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="index_item_experience_now">Встановити</string>
     <string name="indices_title_chance_of_rain">Ймовірність дощу</string>
@@ -278,10 +276,7 @@
     <string name="indices_wind_direction_north">Пн</string>
     <string name="indices_wind_direction_south">Пд</string>
     <string name="indices_wind_direction_west">Зх</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">Індекс УФ</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Увімкнути служби визначення місцезнаходження</string>
     <string name="location_tag">Місцезнаходження</string>
     <string name="manager_city_option_add_home">Додати на головну сторінку</string>
@@ -434,7 +429,6 @@
     <string name="share_button">Відправити</string>
     <string name="share_menu_title">Поділитися</string>
     <string name="share_subject">Відправити</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Не вдалося зробити знімок екрана</string>
     <string name="shortcut_short_label_24_hour_forecast">%d-годинний прогноз</string>
