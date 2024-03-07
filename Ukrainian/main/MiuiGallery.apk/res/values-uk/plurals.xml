@@ -462,12 +462,6 @@
         <item quantity="few">"Всього %1$d об/'єкта"</item>
         <item quantity="many">"Всього %1$d об/'єктів"</item>
     </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">Поворот на %d градусів</item>
-        <item quantity="one">Поворот на %d градус</item>
-        <item quantity="few">Поворот на %d градуси</item>
-        <item quantity="many">Поворот на %d градусів</item>
-    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d днів</item>
         <item quantity="one">%d день</item>
@@ -865,10 +859,10 @@
         <item quantity="many">%d відео</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">Не вдалося створити резеврну копію %d фото або відео</item>
-        <item quantity="one">Не вдалося створити резеврну копію %d фото або відео</item>
-        <item quantity="few">Не вдалося створити бекап %d фото або відео</item>
-        <item quantity="many">Не вдалося створити резеврну копію %d фото або відео</item>
+        <item quantity="other">"%d об'єктів не синхронізовані"</item>
+        <item quantity="one">"%d об'єкт не синхронізовано"</item>
+        <item quantity="few">"%d об'єкти не синхронізовані"</item>
+        <item quantity="many">"%d об'єктів не синхронізовані"</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">"%d об'єктів занадто великі"</item>

@@ -478,6 +478,7 @@
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -537,6 +538,7 @@
     <string name="note_write_hint">Почніть писати</string>
     <string name="notealert_enter">Відкрити нотатку</string>
     <string name="notealert_ok">Відхилити</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Програма \"Нотатки\" являється системною. Ви не зможете використовувати її після видалення.</string>
     <string name="notes_description_title">Видалити програму \"Нотатки\"?</string>
     <string name="notification_content_add_todo_from_other_app">Ви додали нове завдання. Натисніть для перегляду.</string>
@@ -601,9 +603,9 @@
     <string name="permission_read_contact_desc">Асоціація нотаток, створених під час голосових викликів, з контактами</string>
     <string name="permission_storage_desc_new_v12">Для додавання зображень та збереження нотаток у вигляді зображень</string>
     <string name="permission_storage_desc_pad_new_v12">Для додавання зображень та збереження нотаток у вигляді зображень</string>
-    <string name="permission_xiaoai_desc">&lt;Data>Mi AI буде збирати ваші голосові записи та ID пристрою для розшифрування та створення голосових нотаток. Ознайомтеся з &lt;a href=\"%1$s\">Політикою конфіденційності&lt;/a> Mi AI для отримання більш детальної інформації.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_m">&lt;Data>Для надання транскрипційних послуг розпізнавання мовлення Мі AI необхідно отримувати дані вхідного звуквого сигналу та IMeEI вашого пристрою. Перед продовженням ознайомтеся та прийміть нашу &lt;a href=\"%1$s\">Заяву про обмін даними програми Нотатки з третьою стороною&lt;/a>. Ви також можете дізнатися більше у &lt;a href=\"%2$s\">Політиці конфіденційності Mi Ai&lt;/a>.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_new">&lt;Data>Для надання транскрипційних послуг розпізнавання мовлення Мі AI необхідно отримувати дані вхідного звуквого сигналу та використовувати ідентифікатор пристрою, який генерується випадковим чином. Перед продовженням ознайомтеся та прийміть нашу &lt;a href=\"%1$s\">Заяву про обмін даними з третьою стороною програми Нотатки&lt;/a>. Ви також можете дізнатися більше у &lt;a href=\"%2$s\">Політиці конфіденційності Mi Ai&lt;/a>.&lt;/Data></string>
+    <string name="permission_xiaoai_desc"><Data>Mi AI буде збирати ваші голосові записи та ID пристрою для розшифрування та створення голосових нотаток. Ознайомтеся з &lt;a href=\"%1$s\">Політикою конфіденційності&lt;/a> Mi AI для отримання більш детальної інформації.</Data></string>
+    <string name="permission_xiaoai_desc_m"><Data>Для надання транскрипційних послуг розпізнавання мовлення Мі AI необхідно отримувати дані вхідного звуквого сигналу та IMeEI вашого пристрою. Перед продовженням ознайомтеся та прийміть нашу &lt;a href=\"%1$s\">Заяву про обмін даними програми Нотатки з третьою стороною&lt;/a>. Ви також можете дізнатися більше у &lt;a href=\"%2$s\">Політиці конфіденційності Mi Ai&lt;/a>.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Для надання транскрипційних послуг розпізнавання мовлення Мі AI необхідно отримувати дані вхідного звуквого сигналу та використовувати ідентифікатор пристрою, який генерується випадковим чином. Перед продовженням ознайомтеся та прийміть нашу &lt;a href=\"%1$s\">Заяву про обмін даними з третьою стороною програми Нотатки&lt;/a>. Ви також можете дізнатися більше у &lt;a href=\"%2$s\">Політиці конфіденційності Mi Ai&lt;/a>.</Data></string>
     <string name="permission_xiaoai_title">Розпізнавання мовлення</string>
     <string name="permlab_accessNote">Доступ до нотаток</string>
     <string name="pm">ПО</string>
@@ -797,6 +799,7 @@
     <string name="time_picker_dialog_title">Задати час</string>
     <string name="time_picker_label_hour">Г</string>
     <string name="time_picker_label_minute">ХВ</string>
+    <string name="to_view_alarm_content">Натисніть, щоб переглянути</string>
     <string name="toast_cancel_to_insert_image">Не вдалося додати зображення.</string>
     <string name="toast_excerpt_end">Готово</string>
     <string name="toast_excerpt_no_content">Виписок немає</string>
@@ -896,6 +899,7 @@
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="view_all_notes">Переглянути все</string>
+    <string name="warn_cannot_add_more_content">Ця нотатка досягла максимальної довжини. Інший доданий вами вміст збережено не буде.</string>
     <string name="warn_cannot_add_new_bullet">Неможливо додати новий список, занадто довга нотатка</string>
     <string name="warn_cannot_add_new_checkbox">Неможливо додати нову галочку, занадто довга нотатка</string>
     <string name="warn_cannot_add_new_content">Неможливо додати новий текст, нотатка занадто довга</string>

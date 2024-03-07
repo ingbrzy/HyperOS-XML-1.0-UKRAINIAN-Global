@@ -84,8 +84,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Акаунти</item>
-        <item>Додавання та керування сторонніми акаунтами</item>
-        <item>Акаунти;SNS;WeChat;QQ;Mi акаунт;Акаунт;Xiaomi акаунт</item>
+        <item>Перегляд підключеного WeChat акаунту та інших акаунтів</item>
+        <item>дозволи;SNS;WeChat;Xiaomi акаунт;акаунт</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Змінити пароль</item>

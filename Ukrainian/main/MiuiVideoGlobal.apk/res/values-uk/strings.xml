@@ -134,6 +134,7 @@
     <string name="cast_forward">Перемотати вперед</string>
     <string name="cast_forward_10">Перемотати вперед на 10 секунд</string>
     <string name="cast_forward_30">Перемотати вперед на 30 секунд</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ТРАНСЛЯЦІЯ</string>
     <string name="cast_mute">Вимкнути звук</string>
     <string name="cast_notification_connected_message">Під’єднано до екрана %1$s</string>
@@ -169,6 +170,7 @@
     <string name="chromecast_playing">Ви переглядаєте відео за допомогою Chromecast</string>
     <string name="clear_text_end_icon_content_description">Видалити текст</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
+    <string name="click_to_open_ad">Натисніть для перегляду інформації</string>
     <string name="click_to_open_pip">Натисніть, щоб перейти у режим \"картинка в картинці\"</string>
     <string name="click_to_play_video_push_context">Натисніть для відтворення відео</string>
     <string name="click_to_reload_more">Натисніть, щоб завантажити ще</string>
@@ -773,6 +775,8 @@ ID:%s
     <string name="local_subtitle_input_keyword_text">Пошук ключових слів</string>
     <string name="local_tip_act_for_android_u">Редагувати</string>
     <string name="local_tip_info_for_android_u">Ви дозволили Мі Відео відображати тільки деякі відео.</string>
+    <string name="local_tip_info_for_no_audio">Не вдалося отримати доступ до аудіофайлів, збережених на пристрої. Спочатку надайте необхідні дозволи.</string>
+    <string name="local_tip_info_for_no_video">Не вдалося отримати доступ до відео, збережених на пристрої. Спочатку надайте необхідні дозволи.</string>
     <string name="local_video_create_a_new_playlist">Новий плейлист</string>
     <string name="local_video_date">За датою</string>
     <string name="local_video_dialog_default">За замовчуванням</string>
@@ -1013,6 +1017,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -1102,6 +1107,7 @@ ID:%s
     <string name="online_play_start_ready_loading_tip_kb">Завантаження %.2f кБ/с</string>
     <string name="online_play_start_ready_loading_tip_mb">Завантаження %.2f МБ/с</string>
     <string name="online_play_title">Введіть URL</string>
+    <string name="order_alphabet">А-Я</string>
     <string name="order_recently_subscribe">Нещодавні підписки</string>
     <string name="order_recently_updated">Нещодавні</string>
     <string name="out_of_memory_background_playback_is_suspended">"Відтворення у фоновому режимі призупинено через недостатню кількість пам'яті."</string>
@@ -1372,6 +1378,7 @@ ID:%s
     <string name="popup_pip_activate_button">Налаштування</string>
     <string name="popup_pip_not_activated">Спочатку дозвольте Мі Відео використовувати режим \"Картинка в картинці\".</string>
     <string name="popup_window_home_tip">Завантажуйте онлайн-відео</string>
+    <string name="popup_window_small_tag_tip">Натисніть на мітку, щоб переглянути всі відео в цій категорії.</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy_agree_subtitle">Згода з Політикою конфіденційності дозволяє вам користуватися всіма функціями Мі Відео</string>
     <string name="privacy_agree_title">Згода</string>
@@ -1461,6 +1468,7 @@ ID:%s
     <string name="sending">Відправлення…</string>
     <string name="service_error">Помилка сервера</string>
     <string name="set_success">Змінено успішно</string>
+    <string name="setting_privacy_title">Правила та умови</string>
     <string name="settings_inline_auto_play">Завжди увімк. автовідтворення</string>
     <string name="settings_inline_auto_play_close">Автовідтворення вимк.</string>
     <string name="settings_inline_auto_play_tip_close_forever">Завжди вимк.</string>
@@ -1471,6 +1479,8 @@ ID:%s
     <string name="settings_inline_auto_play_wify">Увімк. автовідтворення тільки по Wi-Fi</string>
     <string name="settings_inline_title">Автовідтворення на початковій сторінці</string>
     <string name="settings_manager_hidden_folder">Керувати прихованими відео</string>
+    <string name="shake_or_click_to_open_ad">Струсіть або натисніть для перегляду інформації</string>
+    <string name="shake_to_open_ad">Струсіть для перегляду інформації</string>
     <string name="share">Поділитися</string>
     <string name="share_text_before_link">Безкоштовно переглядайте та завантажуйте неймовірні відео з Мі Відео</string>
     <string name="share_ugc_waitting">Створення посилання…</string>
@@ -1484,8 +1494,14 @@ ID:%s
     <string name="sign_in_title">Увійти за допомогою Mi акаунта</string>
     <string name="skip_ad">Пропустити</string>
     <string name="slid_fail_message">Помилка збереження</string>
+    <string name="slide_or_click_to_open_ad">Проведіть або натисніть для перегляду інформації</string>
     <string name="slide_save_message">Створення відео…</string>
+    <string name="slide_to_open_ad">Проведіть для перегляду інформації</string>
     <string name="small_video_load_more_hint">Проведіть вверх для відтворення інших відео</string>
+    <string name="small_video_report">Поскаржитися</string>
+    <string name="small_video_report_dialog_title">Виберіть причину</string>
+    <string name="small_video_report_submit">Відправити</string>
+    <string name="small_video_report_success">Дякуємо за відгук!</string>
     <string name="small_video_tab_expose_hint">Натисніть, щоб переглянути більше відео</string>
     <string name="sms_send_success">Відправлено успішно</string>
     <string name="sns_access_token_expired_warning">Час сесії закінчився. Увійдіть ще раз для повторного підключення аккаунту.</string>
@@ -1493,6 +1509,7 @@ ID:%s
     <string name="sns_sign_in">Інші способи авторизації</string>
     <string name="source">"Джерело: "</string>
     <string name="start_download_tip">Додано до черги. Перевірте прогрес у Профіль > Завантаження.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">"Пам'ять пристрою"</string>
     <string name="submit">Відправити</string>

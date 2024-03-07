@@ -54,6 +54,24 @@
         <item quantity="few">%d хв назад</item>
         <item quantity="many">%d хв назад</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Відхилено %2$d файлів, включаючи %1$s</item>
+        <item quantity="one">Відхилено %2$d файл, включаючи %1$s</item>
+        <item quantity="few">Відхилено %2$d файла, включаючи %1$s</item>
+        <item quantity="many">Відхилено %2$d файлів, включаючи %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Отримано %2$d файлів, включаючи %1$s</item>
+        <item quantity="one">Отримано %2$d файл, включаючи %1$s</item>
+        <item quantity="few">Отримано %2$d файла, включаючи %1$s</item>
+        <item quantity="many">Отримано %2$d файлів, включаючи %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d файлів, включаючи %1$s</item>
+        <item quantity="one">%2$d файл, включаючи %1$s</item>
+        <item quantity="few">%2$d файла, включаючи %1$s</item>
+        <item quantity="many">%2$d файлів, включаючи %1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>

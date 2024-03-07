@@ -68,7 +68,7 @@
     <string name="cta_agree_desc">"Дозвольте цій програмі доступ до інтернету, а також надайте обов'язкові дозволи, перераховані вище."</string>
     <string name="cta_btn_agree">Погодитися</string>
     <string name="cta_btn_disagree">Відхилити</string>
-    <string name="cta_main_purpose">Ласкаво просимо до Редактора знімків екрана! Використовуйте цю програму для кадрування та редагування знімків екрана.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Welcome to Screenshot Editor! You can use this app to crop and edit your screenshots. This app needs to connect to the internet and access audio and video files on your device to be able to provide necessary services.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для збереження знімка екрана</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -170,6 +170,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">Видалення особистої інформації з фото (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Створення знімка екрана…</string>
+    <string name="long_screenshot_content_loading">Секунду…</string>
+    <string name="long_screenshot_content_manual">Вручну виберіть кінцеву точку знімка екрана, а потім натисніть \"Готово\".</string>
+    <string name="long_screenshot_done">Готово</string>
     <string name="long_screenshot_error">Сталася помилка. Повторіть спробу.</string>
     <string name="long_screenshot_guide_text">"Натисніть для створення
 знімка екрана з прокручуванням"</string>
@@ -178,6 +182,7 @@
     <string name="long_screenshot_processing">Обробка…</string>
     <string name="long_screenshot_processing_description_accessibility">Обробка</string>
     <string name="long_screenshot_stop">Готово</string>
+    <string name="long_screenshot_title">Знімок екрана з прокручуванням</string>
     <string name="long_screenshot_top_msg">Створення знімка екрана…</string>
     <string name="long_screenshot_top_msg_description_accessibility">Створення знімка екрана</string>
     <string name="long_screenshot_top_msg_manual">Обріжте знімок екрана та натисніть на кнопку для завершення</string>
@@ -209,6 +214,7 @@
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>
@@ -364,12 +370,17 @@
     <string name="screen_editor_btn_save">Зберегти</string>
     <string name="screen_editor_btn_shell_off">Видалити рамку пристрою</string>
     <string name="screen_editor_btn_shell_on">Додати рамку пристрою</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Видалити цей скріншот?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Видалити це зображення зараз?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Готово</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Неможливо додати рамку пристрою для обрізаних скріншотів</string>
     <string name="screen_editor_shell_net_error">Підключитися до мережі для завантаження рамки пристрою</string>
     <string name="screen_editor_shell_res_downloading">Завантаження рамки пристрою…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Скасувати</string>
     <string name="screen_save_dialog_btn_delete">Видалити скріншот</string>
     <string name="screen_save_dialog_btn_save">Зберегти до Галереї</string>
@@ -397,6 +408,7 @@
     <string name="screenshot_long_screenshot">Прокручування</string>
     <string name="screenshot_save">Зберегти</string>
     <string name="screenshot_send">Відправити</string>
+    <string name="screenshot_succeed">Знімок екрана зроблено успішно</string>
     <string name="screenshot_thumbnail">Ескіз знімка екрана</string>
     <string name="scroll_annotation">Прокручування та нотатки</string>
     <string name="scroll_annotation_btn_quit">Вихід із нотаток</string>

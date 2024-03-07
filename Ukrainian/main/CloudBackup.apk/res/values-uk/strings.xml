@@ -439,6 +439,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">Перший простір</string>
     <string name="other_device_second_space">Другий простір</string>
     <string name="page_title_more_backup_options">Додаткові послуги резервного копіювання</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Неможливо відновлювати дані в режимі ПК. Відключіть режим ПК та повторіть спробу.</string>
     <string name="permission_to_use">Інформація про дозволи</string>
     <string name="pm">ПО</string>
@@ -450,6 +452,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_error_connect_title">Неможливо підключитися</string>
     <string name="provision_next">Далі</string>
     <string name="provision_restore_data">"Відновлення об'єктів"</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">Пропустити</string>
     <string name="query_restore_description">Якщо ви відновите налаштування робочого столу, вже встановлені програми будуть відновлені у вихідному положенні на робочому столі. Програми, які не входять до цієї резервної копії, будуть переміщені на останню сторінку робочого столу.</string>
     <string name="query_restore_summary">Була знайдена резервна копія у Xiaomi Cloud для даного пристрою. Відновити програми на робочому екрані і налаштування або використати її як нову версію і видалити попередні резервні копії, збережені в Xiaomi Cloud?</string>

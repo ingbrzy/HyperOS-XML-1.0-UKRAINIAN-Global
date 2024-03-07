@@ -940,6 +940,8 @@
     <string name="keyguard_indication_charging_time_wireless">%2$s • Бездротове заряджання • %1$s до повного заряду</string>
     <string name="keyguard_indication_trust_unlocked">Розблоковує довірчий агент</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+    <string name="keyguard_left_remotecentral">Mi Пульт</string>
+    <string name="keyguard_left_smarthome">Xiaomi Home</string>
     <string name="keyguard_left_torch">Ліхтарик</string>
     <string name="keyguard_left_view_lock_wallpaper">Карусель шпалер</string>
     <string name="keyguard_loading_to_editor_tips">Запуск редактора Екрана блокування…</string>
@@ -1221,6 +1223,7 @@ IT-адміністратор може відстежувати й контро�
     <string name="monitoring_description_personal_profile_named_vpn">Ваші особисті додатки підключено до Інтернету через %1$s. Постачальник послуг VPN бачить ваші дії в мережі, зокрема електронні листи й дані веб-перегляду.</string>
     <string name="monitoring_description_two_named_vpns">Цей пристрій підключено до Інтернету через %1$s і %2$s. Системний адміністратор бачить ваші дії в мережі, зокрема електронні листи й дані веб-перегляду.</string>
     <string name="monitoring_description_vpn_settings">Відкрити налаштування мережі VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"Компанія \"%1$s\" має доступ до даних, пов'язаних із цим пристроєм, а також може змінювати його налаштування та керувати додатками.
 
 Якщо у вас є запитання, зв'яжіться з компанією \"%2$s\"."</string>
@@ -1420,8 +1423,6 @@ IT-адміністратор може відстежувати й контро�
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Виберіть &lt;font color=#a5220e>\"Провести та перезавантажити\"&lt;/font> та зачекайте поки пристрій перезавантажиться.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Стерти всі дані зараз?</string>
     <string name="phone_locked_string">Цей пристрій заблоковано</string>
-    <string name="phone_locked_string_owner_user">Забагато невдалих спроб введення пароля Першого простору. Тепер пристрій заблоковано.</string>
-    <string name="phone_locked_string_second_user">Забагато невдалих спроб введення пароля Другого простору. Тепер пристрій заблоковано.</string>
     <string name="pip_close">Закрити</string>
     <string name="pip_collapse">Згорнути</string>
     <string name="pip_edu_text">Відкрити елементи керування: двічі натисніть <annotation icon="home_icon">HOME</annotation></string>
@@ -1823,6 +1824,8 @@ IT-адміністратор може відстежувати й контро�
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Автообертання екрана</string>
     <string name="status_bar_work">Робочий профіль</string>

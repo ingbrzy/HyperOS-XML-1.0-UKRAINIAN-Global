@@ -968,6 +968,7 @@
     <string name="card_main_private_space_summary">Використання Другого простору - схоже на володіння двома пристроями</string>
     <string name="card_main_private_space_title">Другий простір</string>
     <string name="card_main_sectool_title">Інструменти</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Керування відео</string>
     <string name="card_main_whatsappclean_title">Очищення WhatsАpp</string>
     <string name="card_main_xspace_action">Створити</string>
@@ -1337,6 +1338,7 @@
     <string name="dynamic_performance_optimization_title">Динамічна продуктивність</string>
     <string name="early_morning">Ранок</string>
     <string name="edit_phone_num">Змінити номер SIM-картки</string>
+    <string name="ellipsis">…</string>
     <string name="email">Ел.пошта</string>
     <string name="empty" />
     <string name="empty_app">Немає програм</string>
@@ -1414,7 +1416,9 @@
     <string name="exo_download_paused_for_wifi">Очікується підключення до Wi-Fi</string>
     <string name="exo_download_removing">Завантаження видаляються</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Альтернативна</string>
     <string name="exo_track_role_closed_captions">Субтитри</string>
     <string name="exo_track_role_commentary">Коментарі</string>
@@ -2122,8 +2126,8 @@ Xiaomi Gaming Cooler"</string>
     <string name="group_clipboard">Клавіатура</string>
     <string name="group_connect_device">"Взаємопов'язаність"</string>
     <string name="group_file">Файли та документи</string>
+    <string name="group_file_less_t">Access files and media</string>
     <string name="group_head_data_ai_clipboard">Захист буфера обміну</string>
-    <string name="group_head_data_ai_clipboard_desc">"Дозволити системі вирішувати, чи можуть програми отримувати доступ до об'єктів у буфері обміну"</string>
     <string name="group_head_data_camera_desc">Вимкніть, щоб обмежити доступ до камери для всіх програм</string>
     <string name="group_head_data_clipboard_desc">Вимкніть, щоб обмежити доступ до клавіатури для всіх програм</string>
     <string name="group_head_data_location_desc">Вимкніть, щоб обмежити доступ до місцезнаходження для всіх програм</string>
@@ -2599,6 +2603,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">Дозволи</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_text_networkassistants_danger">Перевищення: %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">Залишилося: %s</string>
     <string name="menu_text_networkassistants_unit_b">Б</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
@@ -2607,6 +2612,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">Збільшити швидкість</string>
     <string name="menu_text_optimize_manage_1">Збільшити швидкість</string>
     <string name="menu_text_power_manager">Батарея</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Видалити з винятків</string>
     <string name="menu_white">Додати до винятків</string>
     <string name="mi_ime_not_used">Використовуйте клавіатуру, схвалену Xiaomi.</string>
@@ -2615,6 +2621,9 @@ to join our egg hunt!"</string>
     <string name="mi_service_traffic_detail">Інформація про Framework</string>
     <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up open Mi Sim.&lt;/U>&lt;/font>"</string>
     <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
+    <string name="mic_noise_reduction_mode_standard">Стандартна</string>
+    <string name="mic_noise_reduction_mode_ultimate">Вибрати</string>
+    <string name="mic_noise_reduction_voiceprint_desc">Зберігати аудіозаписи тільки від зазначеного користувача</string>
     <string name="midnight">Ніч</string>
     <string name="midrop_post_notification_contentTitle">Необхідно передати файли?</string>
     <string name="miui_blur_location">Надати всім програмам доступ до вашого приблизного місцезнаходження</string>
@@ -2712,6 +2721,7 @@ to join our egg hunt!"</string>
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -3102,6 +3112,7 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_total_consumption_title">Загальне споживання батареї</string>
     <string name="pc_battery_history_usetime_title">Активний</string>
     <string name="pc_battery_low_health_reminder">Час замінити батарею</string>
+    <string name="pc_button_go_to_setting">Налаштування</string>
     <string name="pc_category_charge_settings">Налаштування заряджання</string>
     <string name="pc_charged_auto_close_summary">Відключіть, коли рівень заряду становить %1$s або , коли батарея повністю заряджена</string>
     <string name="pc_charged_auto_close_title">Вимкнути після зараджання</string>
@@ -3141,6 +3152,7 @@ to join our egg hunt!"</string>
     <string name="pc_going_to_exit_extreme_mode">Вихід із режиму гібернації</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Пристрій заряджається. Режим гібернації відкл.</string>
     <string name="pc_going_to_extreme_mode">Вхід в режим гібернації</string>
+    <string name="pc_handle_battery_level">Рукоятка</string>
     <string name="pc_have_no_battery_issue">Питань немає</string>
     <string name="pc_hide_more_power_rank_apps">Приховати</string>
     <string name="pc_hidemode_normal">Збалансовано</string>
@@ -3200,11 +3212,14 @@ to join our egg hunt!"</string>
     <string name="pc_performance_mode_dialog_title">Режим продуктивності</string>
     <string name="pc_performance_mode_noti_summary">Активація режиму продуктивності може призвести до збільшення енергоспоживання, а також до перегріву пристрою.</string>
     <string name="pc_performance_mode_noti_title">Покращена продуктивність</string>
+    <string name="pc_phone_battery_level">Телефон</string>
     <string name="pc_power_consume_check">Перевірка батареї</string>
     <string name="pc_power_consume_check_ing">Перевірка…</string>
+    <string name="pc_power_mode_has_performance">Висока продуктивність</string>
     <string name="pc_power_save_settings_new">Налаштування економії енергії</string>
     <string name="pc_remind_close_cover_to_charge_summary">Складіть пристрій перед заряджанням, щоб забезпечити швидший та стабільніший процес заряджання.</string>
     <string name="pc_remind_close_cover_to_charge_title">Складіть для заряджання</string>
+    <string name="pc_reminder_always_protect_summary">Перейдіть на обмежене заряджання, щоб зменшити зношення батареї</string>
     <string name="pc_save_charge">Заряджається</string>
     <string name="pc_save_other_setting">Інші налаштування</string>
     <string name="pc_save_power">Економія заряду батареї</string>
@@ -3234,6 +3249,11 @@ to join our egg hunt!"</string>
     <string name="pc_wait_device_cools_down">Для використання цієї функції зачекайте, поки пристрій охолодиться.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Помістіть його на бездротовий зарядний пристрій</string>
     <string name="pc_wireless_charge_adjust_position_title">Заряджайте пристрій швидше</string>
+    <string name="pc_wireless_charging_special_stand_summary1">Розмістіть свій пристрій на підставці, що входить до комплекту бездротового зарядного пристрою</string>
+    <string name="pc_wireless_charging_special_stand_summary2">Розмістіть свій пристрій на підставці, що входить до комплекту бездротового зарядного пристрою, для максимальної ефективності процесу заряджання</string>
+    <string name="pc_wireless_charging_special_stand_title">Використовуйте додану підставку для заряджання</string>
+    <string name="pc_wireless_handle_connected">Пристрій підключений</string>
+    <string name="pc_wireless_handle_title">Бездротова рукоятка</string>
     <string name="pc_work_in_save_mode">Економія енергії</string>
     <string name="pc_work_in_super_save_mode">Ультраекономія енергії</string>
     <string name="pc_xiaoai_create_auto_task">Нове завдання від Mi AI</string>
@@ -3294,6 +3314,7 @@ to join our egg hunt!"</string>
     <string name="permission_group_camera">Ця роздільна здатність дозволяє програмам використовувати камеру для фотографування або запису відео.</string>
     <string name="permission_group_contact">При наявності цього дозволу програми можуть отримувати доступ до контактів і змінювати їх, а також переглядати контакти програм, створені на цьому пристрої.</string>
     <string name="permission_group_file">Цей дозвіл надає програмам доступ до файлів на пристрої.</string>
+    <string name="permission_group_file_less_t">This permission allows apps to access photos, videos, audio, and other files stored on this device.</string>
     <string name="permission_group_image_video">Цей дозвіл надає програмам доступ до фото та відео на пристрої.</string>
     <string name="permission_group_location">Цей дозвіл дозволяє програмам отримувати доступ до інформації про місцезнаходження через мережу або супутник.</string>
     <string name="permission_group_microphone">Цей дозвіл дозволяє програмам використовувати мікрофон для запису аудіо.</string>
@@ -3458,7 +3479,7 @@ to join our egg hunt!"</string>
     <string name="power_center_batteryrank_all">Всі дані споживання</string>
     <string name="power_center_batteryrank_hardware">Використання батареї апаратним забезпеченням %s</string>
     <string name="power_center_batteryrank_software">Використання батареї програмним забезпеченням %s</string>
-    <string name="power_center_batteryscan_normal">Проблем з використанням батареї немає. Переглянути результати.</string>
+    <string name="power_center_batteryscan_normal">Зараз все добре. Показати деталі.</string>
     <string name="power_center_charge_status">Заряджається</string>
     <string name="power_center_charge_time">Зарядиться за %1$s</string>
     <string name="power_center_consume_fast">Зниження заряду батареї</string>
@@ -3468,6 +3489,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">Коли увімкнено економію енергії, то будуть виконані наступні оптимізації:</string>
     <string name="power_center_hints_scan_danger_result">Вирішіть проблеми з батареєю</string>
     <string name="power_center_list_item_auto_brightness">Автоматично налаштовувати яскравість</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s мАг</string>
+    <string name="power_center_list_item_battery_status_capacity">мАг</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">год</string>
     <string name="power_center_list_item_close_bluetooth">Вимкнути Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Розширені налаштування</string>
@@ -3490,7 +3516,7 @@ to join our egg hunt!"</string>
     <string name="power_center_optimize_title">Пропозиції</string>
     <string name="power_center_power_save_summary_text">Збільшити час роботи від батареї на %1$d год %2$d хв</string>
     <string name="power_center_power_save_title_text">Економія енергії</string>
-    <string name="power_center_problem_title">Виправити проблеми</string>
+    <string name="power_center_problem_title">Високе енергоспоживання</string>
     <string name="power_center_reduce_dpi_summary">QHD+ споживає більше енергії</string>
     <string name="power_center_reduce_resolution">Зменшити роздільну здатність екрана</string>
     <string name="power_center_repeat">Повторювати</string>
@@ -3581,6 +3607,9 @@ to join our egg hunt!"</string>
     <string name="power_main_battery_last_hour_minute">Заряду вистачить на %1$s год %2$s хв</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Екранний час, що залишився: %1$s %2$s</string>
     <string name="power_main_open_last_hour_minute_screen_on">Увімкніть, щоб додати %1$s %2$s екранного часу</string>
+    <string name="power_ntc_dialog_btn_finish">Зрозуміло</string>
+    <string name="power_ntc_dialog_msg">"Відключіть зарядний пристрій. Перед використанням очистіть та висушіть роз'єм для заряджання."</string>
+    <string name="power_ntc_dialog_title">Виявлено сторонній предмет або рідину</string>
     <string name="power_off_warning_button_ok">Зрозуміло</string>
     <string name="power_off_warning_message">Низький заряд батареї. Ваш пристрій відключиться через %d сек. Підключіть зарядний пристрій.</string>
     <string name="power_off_warning_notification_title">Скоро відключиться</string>
@@ -3723,11 +3752,16 @@ to join our egg hunt!"</string>
     <string name="pp_app_warning_permission_tips">Нагадування про конфіденційні дозволи</string>
     <string name="pp_app_warning_permission_tips_detail">Показувати нагадування, коли програма запитує дозвіл на доступ до місцезнаходження, камери або мікрофона</string>
     <string name="pp_clipboard">Клавіатура</string>
+    <string name="pp_none_read_clipboard_item">Не сповіщати</string>
+    <string name="pp_privacy_lab_clipboard_summary">Дозвольте вашому пристрою вирішити, чи може програма отримувати доступ до буфера обміну, та отримувати сповіщення</string>
     <string name="pp_privacy_lab_operator_get_number_summary">"Зобов'язувати програми запитувати дозвіл, коли їм необхідний доступ до номера телефону для авторизації"</string>
     <string name="pp_privacy_protection">Захист</string>
+    <string name="pp_protect_read_clipboard_item">Захистити</string>
     <string name="pp_read_phone_info_summary">Доступ до інформації про повідомлення</string>
     <string name="pp_sms_and_contacts">Контакти та повідомлення</string>
     <string name="pp_special_permission_settings">Особливі дозволи</string>
+    <string name="pp_toast_read_clipboard">Сповіщати, коли програми отримують доступ до буфера обміну</string>
+    <string name="pp_toast_read_clipboard_item">Сповіщати</string>
     <string name="precise_location_title">Точне місцезнаходження</string>
     <string name="pref_about_traffic_title">Налаштування трафіку</string>
     <string name="pref_adjust_data_usage">Шаблон повідомлення оператора</string>
@@ -3772,6 +3806,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">Коли тарифний план було використано</string>
     <string name="pref_open_adjust_traffic">Оновлювати статистику трафіку щодня на основі даних мобільного оператора</string>
     <string name="pref_operator_not_set">Оператор не встановлений</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">При перевищенні ліміту трафіку</string>
     <string name="pref_package_traffic_settings">Тарифний план</string>
     <string name="pref_pkg_begin_date">Дата початку обліку</string>
@@ -4004,6 +4039,7 @@ to join our egg hunt!"</string>
     <string name="privacy_risk_result_protection">Захист конфіденційності</string>
     <string name="privacy_risk_result_screen_fuzzy">Розмиття мініатюр</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Розмивати мініатюри програм конфіденційних програм у Нещодавніх.</string>
+    <string name="privacy_risk_result_screen_shield_msg">Програми, що містять конфіденційну особисту інформацію, відображатимуться у розділі \"Нещодавні\" із замаскованим попереднім переглядом</string>
     <string name="privacy_risk_result_set_btn">Налаштування</string>
     <string name="privacy_risk_result_success_empty_msg">Зараз все добре!</string>
     <string name="privacy_risk_result_success_msg">Всі проблеми вирішено. Ура!</string>
@@ -4071,6 +4107,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">Запис звуку</string>
     <string name="privacyapp_number_masked_text">Зміст сповіщень приховано</string>
     <string name="privacyapp_number_unmasked_text">Зміст сповіщень може бути прихований</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Сервер медіа</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Реклама</string>
@@ -4084,10 +4121,10 @@ to join our egg hunt!"</string>
     <string name="qucick_replay_instrument">Використовуйте швидкі відповіді у повідомленнях в обраних месенджерах (наприклад, WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Сканування</string>
     <string name="quick_optimize_no_fix_issue_subtitle">Не вдалося продовжити термін дії батареї</string>
-    <string name="quick_optimize_no_fix_issue_title">Не вдалося виправити інформацію про проблеми з батареєю</string>
+    <string name="quick_optimize_no_fix_issue_title">"Не вдалося оптимізувати об/'єкти з високим енергоспоживанням"</string>
     <string name="quick_optimize_no_issue">Немає проблем з батареєю</string>
     <string name="quick_optimize_no_issue_subtitle">Зараз все добре</string>
-    <string name="quick_optimize_no_issue_title">Не вдалося знайти проблеми з батареєю</string>
+    <string name="quick_optimize_no_issue_title">"Немає об/'єктів з високом енергоспоживанням"</string>
     <string name="quick_optimize_sub_battery_text">Залишилося приблизно %s</string>
     <string name="quick_optimize_sub_summary_text">Додано %s до терміну дії батареї</string>
     <string name="quick_optimize_sub_summary_with_battery_text">Додано %1$s, залишилося приблизно %2$s</string>
@@ -4267,7 +4304,7 @@ to join our egg hunt!"</string>
     <string name="settings">Налаштування трафіку</string>
     <string name="settings_battery_consume_abnormal_summary">Отримувати сповіщення, коли заряд батареї знижується занадто швидко</string>
     <string name="settings_battery_consume_abnormal_title">Сповіщення про зниження заряду батареї</string>
-    <string name="settings_battery_power_save_suggest_title">Пропозиція економії енергії</string>
+    <string name="settings_battery_power_save_suggest_title">Пропозиції економії енергії</string>
     <string name="settings_camera_subtitle_no">Без метаданих</string>
     <string name="settings_category_other">Інші налаштування</string>
     <string name="settings_category_overheat">Нагрівання</string>
@@ -4689,6 +4726,8 @@ to join our egg hunt!"</string>
     <string name="storage_dialog_unsupported">"Цей пристрій не підтримує ^1.
 
 Для використання ^1 на цьому пристрої вам необхідно спочатку виконати налаштування."</string>
+    <string name="storage_fbo_clear">Оновлення сховища</string>
+    <string name="storage_fbo_des">"Пам'ять пристрою сильно фрагментована. Це може негативно вплинути на швидкість роботи пристрою. Оновлення сховища виконується автоматично, якщо ви не використовуєте пристрій. Вона допомагає зменшити фрагментацію файлів і знижує запізнення в роботі пристрою."</string>
     <string name="storage_fbo_number_tip">Виконано %1$s</string>
     <string name="storage_fbo_tools">Оптимізація сховища</string>
     <string name="storage_file_delete_tip">"Видалити вибрані об'єкти назавжди? Деякі з них можуть бути повторно завантажені за необхідності."</string>
@@ -4780,6 +4819,7 @@ to join our egg hunt!"</string>
     <string name="summary_usb">Перешкоджайте проникненню вірусів через USB</string>
     <string name="summary_virus">Видаляйте віруси, щоб тримати пристрій у безпеці</string>
     <string name="summary_virus_cloudscan">Завантажувати назви невідомих файлів та програм на сервер і перевіряти на наявність вірусів</string>
+    <string name="summary_virus_scan_model">Усуньте ці вразливості як можна швидше</string>
     <string name="summary_virus_update">Автоматично отримуйте оновлення антивірусної бази</string>
     <string name="summary_xiaomi_roaming">0.01 юань за 1 МБ мобільного інтернету в роумінгу.</string>
     <string name="sunday">Неділя</string>
@@ -5237,6 +5277,7 @@ Rolled over extra data"</string>
     <string name="vb_movie_power_hint">"Режим \"Театр\" забезпечує перегляд з ефектом занурення.
 Пристрій може нагріватися та споживати більше енергії."</string>
     <string name="vb_movie_subtitle">Необхідна висока продуктивність</string>
+    <string name="vb_mv_style_close_toast">Стиль відкл.</string>
     <string name="vb_power_performance_mode_conflict_toast">Неможливо використовувати цю функцію, якщо увімкнено режим \"Режим продуктивності\"</string>
     <string name="vb_power_save_mode_conflict_toast">Неможливо використовувати цю функцію, якщо увімкнено режим \"Економія енергії\"</string>
     <string name="vb_quick_func_auto_bgm">Розпізнавання фонової музики</string>
@@ -5310,6 +5351,7 @@ Rolled over extra data"</string>
 Увімкнення однієї з функцій відключить іншу."</string>
     <string name="vb_video_super_division_tips">"Недостатньо зрозуміло?
 Спробуйте збільшити роздільну здатність!"</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">Покращена анімація відк.</string>
     <string name="vb_voice_adjust">Театральний звук</string>
     <string name="video_repeat">Повторити</string>
     <string name="videobox_hangup_tips_content">Ваш екран буде заблоковано, але програма буде все ще працювати у фоні, коли ця функція увімкнена. Натисніть на кнопку Живлення, щоб увімкнути екран. Увімкнути цю функцію зараз?</string>

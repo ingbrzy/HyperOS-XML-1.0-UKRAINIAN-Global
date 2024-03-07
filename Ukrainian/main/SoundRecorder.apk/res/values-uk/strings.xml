@@ -206,11 +206,13 @@
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>
     <string name="miuix_appcompat_select_all_description">Вибрати все</string>
     <string name="miuix_appcompat_select_item">Вибрати елементи</string>
+    <string name="miuix_item_view_role_description">Вкладка</string>
     <string name="miuix_navigator_content_switch_description">Показати бокову панель</string>
     <string name="miuix_navigator_multiple_choice">Вибрати</string>
     <string name="miuix_navigator_navigator_switch_description">Приховати бокову панель</string>
@@ -269,6 +271,7 @@
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -338,8 +341,8 @@
     <string name="permission_desc">Інформація про дозволи</string>
     <string name="permission_dialog_cancel">Скасувати</string>
     <string name="permission_dialog_ok">Налаштування</string>
-    <string name="permission_notification_description">Для відправлення повідомлень під час запису, відтворення або завантаження контенту</string>
-    <string name="permission_notification_dialog_description">Для відправлення повідомлень про поточний стан програми</string>
+    <string name="permission_notification_description">Цій програмі необхідно отримати дозвіл надсилати сповіщення, щоб вона могла надсилати повідомлення під час запису, відтворення або завантаження контенту.</string>
+    <string name="permission_notification_dialog_description">Цій програмі необхідно отримати дозвіл надсилати сповіщення, щоб вона могла надсилати повідомлення про поточний стан програми.</string>
     <string name="permission_notification_title">Необхідні дозволи</string>
     <string name="permission_read_phone_state">Доступ до інформації про пристрій</string>
     <string name="permission_read_phone_state_description">Для доступу до статусу виклику з метою автоматичного припинення запису при прийомі викликів</string>
@@ -556,6 +559,7 @@
     <string name="toast_enter_silent_mode">Запис. Режим \"Без звуку\" увімк.</string>
     <string name="toast_exit_silent_mode">Запис зупинено. Режим \"Без звуку\" вимк.</string>
     <string name="toast_max_record_time">Програма \"%1$s\" підтримує максимальний час запису: %2$s</string>
+    <string name="toast_stop">Запис завершено</string>
     <string name="toast_uninstall_fileexplorer">Провідник не встановлено</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>

@@ -69,4 +69,23 @@
         <item>Я</item>
         <item>\#</item>
     </string-array>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d КБ</item>
+        <item>%1$d КБ</item>
+        <item>%1$d КБ</item>
+        <item>%1$d КБ</item>
+        <item>%1$d MБ</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>"Послуги взаємопов'язаності пристроїв"</item>
+        <item>"Підключення та спільнк використання/Послуги взаємопов'язаності пристроїв"</item>
+        <item>"Screen Combo;Дует;Мультиекран;Дует;Комп'ютер;Дзеркало;Послуги взаємопов'язаності пристроїв"</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Неможливо підключитися за допомогою QR-коду?</item>
+        <item>"Не вдається знайти мобільні пристрої за допомогою комп'ютера?"</item>
+        <item>Не вдається заблокувати мобільний пристрій?</item>
+        <item>Сумісність</item>
+    </string-array>
 </resources>

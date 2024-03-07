@@ -31,6 +31,7 @@
     <string name="about_mi_account">Про Xiaomi акаунт</string>
     <string name="accept">Дозволити</string>
     <string name="account_and_password">Пароль</string>
+    <string name="account_auth_failed_message">Закінчився термін дії даних входу до Xiaomi акаунту %1$s. Повторіть спробу.</string>
     <string name="account_bind_devices">"Прив'язані пристрої"</string>
     <string name="account_bind_secure_email_title">Додати адресу електронної пошти</string>
     <string name="account_bind_secure_phone_title">Додати номер телефону</string>
@@ -210,6 +211,23 @@
     <string name="failed_dup_secure_phone_number">"Цей номер телефону пов'язаний з іншим Xiaomi акаунтом"</string>
     <string name="family_service">Сімейні послуги</string>
     <string name="family_service_not_open">Запросити</string>
+    <string name="fido2_client_for_fingerprint_auth">Натисніть, щоб підтвердити за допомогою відбитка пальця</string>
+    <string name="fido2_close_fingerprint_auth">Вимкнення</string>
+    <string name="fido2_close_fingerprint_auth_desc">Вимкнути підтвердження відбитком пальця зараз?</string>
+    <string name="fido2_err_already_registered">Цей акаунт вже увімкнув цю функцію</string>
+    <string name="fido2_err_def">Сталася помилка. Зачекайте та повторіть спробу.</string>
+    <string name="fido2_err_not_regisetered">Цей акаунт ще не увімкнув цю функцію</string>
+    <string name="fido2_err_not_support">Функція не підтримується на цьому пристрої.</string>
+    <string name="fido2_err_security">Виявлено загрози безпеці. Не можна використовувати цю функцію.</string>
+    <string name="fido2_err_service_exception">Сталася помилка сервера, зачекайте хвилинку та повторіть спробу.</string>
+    <string name="fido2_err_timeout">Час запиту сплив. Зачекайте та повторіть спробу.</string>
+    <string name="fido2_fingerprint_auth">Перевірка за відбитком пальця</string>
+    <string name="fido2_fingerprint_auth_desc">&lt;Data>Використовуйте відбиток пальця для входу до Xiaomi акаунту та підтвердження особи &lt;a href=>Детальніше&lt;/a>&lt;/Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">Відбиток пальця вашого пристрою було змінено. Підтвердіть акаунт ще раз, щоб мати можливість увімкнути перевірку відбитка пальця.</string>
+    <string name="fido2_fingerprint_verify">Перевірка за відбитком пальця</string>
+    <string name="fido2_psw_changed_and_afresh_register">Ваш пароль було змінено. Підтвердіть відбиток пальця ще раз.</string>
+    <string name="fido2_setting_ps_notify">Для використання перевірки за відбитком пальця необхідно встановити пароль акаунту. Це можна зробити в розділі \"Налаштування\" > \"Xiaomi акаунт\" > \" Безпека акаунту\" > \"Пароль\".</string>
+    <string name="fido2_verify_fingerprint">Підтвердіть відбиток пальця</string>
     <string name="find_device">Пошук пристрою</string>
     <string name="find_device_access_denied">Не вдається отримати статус, запит на доступ відхилено</string>
     <string name="find_device_account_error">Не вдається отримати статус через помилку акаунту</string>
@@ -300,6 +318,7 @@
     <string name="get_identity_auth_url_failed">Не вдалося перевірити ID</string>
     <string name="get_phone_bind_exceed_limit">"Ви можете прив'язати до %d Xiaomi акаунтів до одного номера телефону. Неможливо додати більше акаунтів."</string>
     <string name="get_phone_verifycode_exceed_limit">Неможливо надіслати більше кодів підтвердження на цей номер</string>
+    <string name="go_to_setting">Налаштування</string>
     <string name="google">Google</string>
     <string name="google_login">Увійти через акаунт Google</string>
     <string name="has_no_new_version">Оновлення не потрібне</string>
@@ -320,6 +339,7 @@
     <string name="indeterminate">Прапорець ані поставлено, ані знято</string>
     <string name="input_email_address_notice">Ми відправимо повідомлення з кодом підтвердження на вказану вами адресу ел. пошти.</string>
     <string name="input_new_pwd">Введіть новий пароль</string>
+    <string name="input_ps">Введіть пароль</string>
     <string name="io_error_title">Підтвердіть вашу мережу</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_second">Секунду…</string>
@@ -337,6 +357,7 @@
     <string name="login_notification_button_text">Увійти</string>
     <string name="login_notification_desc">Насолоджуйтеся хмарними послугами, сімейним сховищем і т.д.</string>
     <string name="login_notification_title">Увійдіть до Xiaomi акаунту</string>
+    <string name="login_or_register_by_other_way">Використовувати інший спосіб</string>
     <string name="login_with_other">Додаткові параметри</string>
     <string name="logout_account">Вихід</string>
     <string name="logout_failed">Не вдається вийти з акаунту</string>
@@ -428,6 +449,7 @@
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -827,6 +849,7 @@
     <string name="recycle_phone_notification_msg">Номер телефону було використано повторно. Натисніть для оновлення.</string>
     <string name="recycle_phone_notification_title">Загроза безпеці Xiaomi акаунту</string>
     <string name="removing_account">Видалення акаунту…</string>
+    <string name="reopen">Увімкнути</string>
     <string name="request_open_permission">Необхідні дозволи</string>
     <string name="request_use_camera_message">Надати Xiaomi акаунту доступ до камери вашого телефону?</string>
     <string name="request_use_camera_title">Доступ до камери</string>
@@ -867,6 +890,7 @@
     <string name="send">Надіслати</string>
     <string name="service_error">Помилка сервісу</string>
     <string name="set_success">Змінено успішно</string>
+    <string name="setting_ps">Налаштування пароля</string>
     <string name="sign_in">Авторизація</string>
     <string name="sim_card">SIM-карта</string>
     <string name="sim_changed_notification_msg">Натисніть, щоб оновити ваш номер для відновлення.</string>

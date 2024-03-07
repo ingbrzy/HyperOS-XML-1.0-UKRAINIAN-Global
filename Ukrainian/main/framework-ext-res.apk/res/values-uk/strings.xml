@@ -520,6 +520,8 @@
     <string name="vigor">Енергія</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_floral_arrangement_title">Квіткова композиція</string>
+    <string name="wallpaper_gradient_title">Градієнт</string>
     <string name="wallpaper_group_black_white_title">Ч/Б</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Динамічна туманність</string>
@@ -531,6 +533,8 @@
     <string name="wallpaper_group_natural_texture_title">Природні візерунки</string>
     <string name="wallpaper_group_red_mars_subtitle">НАСА, JPL, Університет Арізони</string>
     <string name="wallpaper_group_red_mars_title">Марс</string>
+    <string name="wallpaper_neon_title">Неон</string>
+    <string name="wallpaper_overlapping_space_title">Форма та тінь</string>
     <string name="waterdrop_preview">Краплі</string>
     <string name="wifi_assistant_wifi_no_internet">Ця мережа Wi-Fi не має доступу до інтернету</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Натисніть для перегляду інформації</string>

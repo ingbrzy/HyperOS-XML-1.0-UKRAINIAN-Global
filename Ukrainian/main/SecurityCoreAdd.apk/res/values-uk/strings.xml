@@ -256,6 +256,7 @@
     <string name="fingerprint_double_tap">Двічі торкніться сканера відбитків пальців</string>
     <string name="fingerprint_number_upper_limit">Забагато невдалих спроб</string>
     <string name="fingerprint_removal_failed">Не вдалося видалити відбиток пальця</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">Підтримується тільки на внутрішньому екрані</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -480,6 +481,8 @@
     <string name="launch_accessibility_environmental_speech_recognition">Розпізнавання звуків оточення</string>
     <string name="launch_accessibility_hear_sound">Mi Ditto</string>
     <string name="launch_accessibility_hear_sound_subtitle">Субтитри Mi Ditto</string>
+    <string name="launch_accessibility_live_subtitles">Смарт-субтитри</string>
+    <string name="launch_accessibility_live_subtitles_full_screen">Повноекранні смарт-субтитри</string>
     <string name="launch_accessibility_talkback">TalkBack</string>
     <string name="launch_accessibility_voice_control">Голосове керування</string>
     <string name="launch_ai_shortcut">Запуск Mi AI</string>
@@ -559,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>
@@ -884,6 +888,7 @@
     <string name="stylus_connect_fail_not_match_tablet">Стилус несумісний з планшетом</string>
     <string name="stylus_connect_fail_not_open_gps">Не вдалося підключитися. Увімкніть послуги визначення місцезнаходження та повторіть спробу.</string>
     <string name="stylus_connecting">Підключення…</string>
+    <string name="stylus_dislocation_summary">Підключіть стилус тут</string>
     <string name="stylus_focus_welcome">Познайомтеся з Xiaomi Focus Pen</string>
     <string name="stylus_function_and_action">Функції</string>
     <string name="stylus_function_summary">Функції</string>

@@ -93,8 +93,6 @@
     <string name="action_menu_text_video_download">Завантажити відео</string>
     <string name="action_menu_text_web_mode">Режим робочого столу</string>
     <string name="action_menu_toolbox">Інструменти</string>
-    <string name="action_menu_useful_page">Додати ярлик</string>
-    <string name="action_menu_useful_page_added">Додано на головну сторінку</string>
     <string name="action_mode_deselect_all">Зняти вибір</string>
     <string name="action_mode_select_all">Вибрати все</string>
     <string name="action_update_phone">Змінити номер телефону</string>
@@ -127,8 +125,6 @@
     <string name="add_quicklinks">Додати</string>
     <string name="add_right_now">Додати</string>
     <string name="add_short_cut">Додати %s на робочий стіл?</string>
-    <string name="add_shortcut">Додати ярлик</string>
-    <string name="add_shortcut_success">Ярлик додано успішно</string>
     <string name="add_to_bookmark">Закладки</string>
     <string name="add_to_desktop">Додати на робочий стіл</string>
     <string name="add_to_quicklink">Головна сторінка</string>
@@ -278,6 +274,9 @@
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Сторінка вже містить відправлені дані. При повторній відправці попередні дії (наприклад, пошук або купівля) будуть повторені.</string>
     <string name="browserFrameNetworkErrorLabel">Помилка підключення</string>
+    <string name="browser_follow_system">Система</string>
+    <string name="browser_got_it">Зрозуміло</string>
+    <string name="browser_light_mode">Світлий режим</string>
     <string name="browser_slide_video_history">Нещодавні</string>
     <string name="browser_slide_video_like">Лайки</string>
     <string name="browser_slide_video_my">Профіль</string>
@@ -1113,6 +1112,7 @@ ID:%s
     <string name="menu_title_open_file_management">Відкрити Провідник</string>
     <string name="menu_title_pause_all">Призупинити все</string>
     <string name="menu_title_resume_all">Запустити все</string>
+    <string name="mi_browser">Мі Браузер</string>
     <string name="mi_browser_clean_up_garbage">Мі Браузер очищує сміття…</string>
     <string name="mi_browser_is_scanning">Мі Браузер проводить сканування</string>
     <string name="midi_permission_name">Котроль пристроїв MIDI</string>
@@ -1221,6 +1221,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -1445,6 +1446,8 @@ ID:%s
     <string name="news_load_failed">Натисніть, щоб повторити спробу</string>
     <string name="news_loading">Завантаження…</string>
     <string name="news_native_see_all">Вся стаття</string>
+    <string name="news_survey_fill">Enter up to %d characters</string>
+    <string name="news_survey_fill_title">Other:</string>
     <string name="news_video_history">Історія</string>
     <string name="news_video_history_empty">Тут ще нічого немає</string>
     <string name="news_video_invisible_item">Неможливо переглянути це відео</string>
@@ -1510,6 +1513,9 @@ ID:%s
     <string name="notification_download_completed">Завантажено успішно</string>
     <string name="notification_download_failed">Не вдалося завантажити.</string>
     <string name="notification_wechat_expired_empty">Ці відео були видалені із WeChat.</string>
+    <string name="notifications_permission_confirm">Дозволити</string>
+    <string name="notifications_permission_decline">Не дозволяти</string>
+    <string name="notifications_permission_title">Дозволити додатку надсилати вам сповіщення?</string>
     <string name="notify_rencet_play">Останні відтворення</string>
     <string name="novel_continue_read_popup">Читати</string>
     <string name="novel_tab_popup">Переглядайте останні книги тут</string>
@@ -2527,6 +2533,12 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_msg">Видалити рекламні мітки з %s зараз?</string>
     <string name="web_ad_clear_dialog_title">Видалити рекламну мітку</string>
     <string name="web_app_center">Мініпрограми</string>
+    <string name="web_app_center_common_add">Додати</string>
+    <string name="web_app_center_common_done">Готово</string>
+    <string name="web_app_center_common_title">Часто використовувані</string>
+    <string name="web_app_center_history">Нещодавні</string>
+    <string name="web_app_center_history_more">Ще</string>
+    <string name="web_app_center_try">Спробувати</string>
     <string name="web_enhance_dialog_cancel">Скасувати</string>
     <string name="web_enhance_dialog_confirm">OK</string>
     <string name="web_enhance_dialog_msg">Почати блокувати рекламу на %s зараз?</string>
@@ -2604,6 +2616,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Налаштування сайтів</string>
     <string name="web_permission_setting_page_web_enhance_desc">Вимкнути блокування реклами на цьому сайті</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Блокувати рекламу</string>
+    <string name="web_preload_hint_dialog_btn_good">Я помітив(-ла) різницю</string>
+    <string name="web_preload_hint_dialog_btn_nothing">Я не помітив(-ла) цього</string>
+    <string name="web_preload_hint_toast">Швидкість завантаження збільшена на %s</string>
     <string name="web_tag_desc">Показувати мініатюри раніше переглянутих сторінок</string>
     <string name="web_tag_tips">Натисніть тут, щоб ще раз переглянути сторінку</string>
     <string name="web_tag_title">Мініатюри веб-сторінок</string>
