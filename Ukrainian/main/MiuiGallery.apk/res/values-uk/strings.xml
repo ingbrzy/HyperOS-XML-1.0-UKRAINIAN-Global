@@ -847,7 +847,6 @@ ID:%s
     <string name="face_name_edit">Редагувати</string>
     <string name="face_name_input">"Введіть ім'я"</string>
     <string name="face_recommend">Рекомендації</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">Увійти через акаунт Facebook</string>
     <string name="fail_hint">Не вдалося завершити операцію</string>
     <string name="fail_reason_migrate">"Обробка об'єктів… Зачейкате та повторіть спробу."</string>
@@ -863,7 +862,6 @@ ID:%s
     <string name="feedback_my_reports">Звіт</string>
     <string name="feedback_problem">Повідомити про проблему</string>
     <string name="feedback_suggest">Надіслати пропозицію</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Неможливо роздрукувати.</string>
     <string name="file_cannot_screen_throw">Неможливо транслювати.</string>
     <string name="file_sending">Передача файлів…</string>
@@ -960,7 +958,6 @@ ID:%s
     <string name="grant_permission_go_and_set">Задати</string>
     <string name="grant_permission_go_and_set_2">Налаштування</string>
     <string name="grant_permission_go_and_set_3">Налаштування</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Необхідні дозволи</string>
     <string name="grant_permission_manage_storage_unlock">"Для перегляду всіх об'єктів розблокуйте пристрій та дозвольте цій програмі доступ до всіх файлів."</string>
     <string name="grant_permission_shortcut">Спочатку дозвольте цій програмі створювати ярлики на робочому столі.</string>
@@ -1618,7 +1615,6 @@ ID:%s
     <string name="people_page_label">Люди</string>
     <string name="people_page_photo">Мініатюра людини</string>
     <string name="people_page_unname">Без назви</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Для виконання входу до системи та керування системними акаунтами.</string>
     <string name="permission_account_name">Доступ до списку контактів</string>
     <string name="permission_clipboard_desc">Для доступу та зберігання даних у бефері обміну.</string>
@@ -2085,7 +2081,6 @@ ID:%s
     <string name="share_album_cancel_share">Зупинити доступ</string>
     <string name="share_album_change_background">Змінити фото фону</string>
     <string name="share_album_create_failed">Не вдалося створити спільний альбом</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Зупинити доступ</string>
     <string name="share_album_exit_confirm">"Якщо ви продовжите, ви більше не зможете отримувати доступ до всіх об'єктів у цьому альбомі. Збережіть все важливе, перш ніж вийти."</string>
     <string name="share_album_exit_confirm_title">Залишити цю групу?</string>
@@ -2172,7 +2167,6 @@ ID:%s
     <string name="share_with_family">"Поділитися з сім'єю"</string>
     <string name="sharer_quota_fulfiled">Кількість користувачів в цьому альбомі досягла межі.</string>
     <string name="show_cloud_albumlist_summary">"Після відключення синхронізації нові об'єкти для вибраних альбомів не будуть завантажуватися у хмару."</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Перегляд та управління прихованими альбомами</string>
     <string name="show_hidden_album_title">Переглянути приховані альбоми</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">"Перенесення завершено. Тепер ви можете переглядати цей об'єкт у розділі \"Інші альбоми\"."</string>
