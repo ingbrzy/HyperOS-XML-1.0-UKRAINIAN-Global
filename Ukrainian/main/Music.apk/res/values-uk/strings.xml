@@ -384,7 +384,6 @@
     <string name="download_method">Завантаження</string>
     <string name="download_paused_in_power_save_mode">Завантаження будуть призупинені, коли увімкнена економія заряду батареї</string>
     <string name="download_processing">Завантаження…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якість завантаження</string>
     <string name="download_quality_summary">Додаткові налаштування для завантажених пісень</string>
     <string name="download_song_quality_title">Якість завантаження пісень</string>
@@ -480,9 +479,7 @@
     <string name="exo_media_action_repeat_all_description">Повторити всі</string>
     <string name="exo_media_action_repeat_off_description">Не повторювати</string>
     <string name="exo_media_action_repeat_one_description">Повторити 1</string>
-    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Моно</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Альтернативна</string>
     <string name="exo_track_role_closed_captions">Субтитри</string>
     <string name="exo_track_role_commentary">Коментарі</string>
@@ -943,7 +940,6 @@
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -1310,7 +1306,6 @@
     <string name="privacy_desc">"Політика конфіденційності (обов'язково)"</string>
     <string name="privacy_policy">Політика конфіденційності</string>
     <string name="privacy_policy_title_asm">Світ музики у вас під рукою</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=uk_UA</string>
     <string name="privacy_request_desc"><Data>"Програмі Мі Музика потрібно здійснювати збір необхідної особистої інформації, щоб надавати вам онлайн-потокові сервіси. Ви можете докладніше дізнатися про те, як ми обробляємо інформацію, у &lt;a href=\"%1$s\">Політиці конфіденційності&lt;/a>. Ви можете в будь-який час відкликати свою згоду з Політикою конфіденційності програми Мі Музика в Налаштуваннях.
 Перед початком використання програми Мі Музика, ознайомтеся і погодьтеся з нашими &lt;a href=\"%2$s\">Умовами використання&lt;/a> та &lt;a href=\"%1$s\">Політикою конфіденційності&lt;/a>.
 Якщо ви не згодні з вищевказаними документами, ви не зможете використовувати деякі функції цієї програми, однак основні її функції залишаться доступними."</Data></string>
@@ -1487,7 +1482,6 @@
     <string name="start_to_download">Завантаження…</string>
     <string name="start_to_play">Підготовка до відтворення…</string>
     <string name="start_update">Встановлення нової версії…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Сховище для клонованих програм</string>
     <string name="storage_space_permissions_for_display">Доступ до сховища пристрою: для сканування, відображення та відтворення файлів на пристрої</string>
     <string name="streamloadingtext">Підключення до %s</string>
@@ -1648,7 +1642,6 @@
     <string name="upload_playlist_to_hungama_title">Синхронізовуйте бібліотеку музики з hungama, щоб отримати доступ до неї на всіх пристроях, на яких виконаний вхід до вашого акаунту Xiaomi.</string>
     <string name="upload_playlist_to_hungama_toast">Бібліотека онлайн-музики буде синхронізована з hungama</string>
     <string name="user_agreement">Угода користувача</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=uk_UA</string>
     <string name="user_experience_program_open">Через обмеження авторського права вам необхідно зареєструватися в Програмі покращення якості, щоб мати можливість відтворювати завантажені пісні. Ви можете зробити це в розділі \"Налаштування\" > \"Паролі та безпека\" > \"Конфіденційність\" > \"Зареєструватися в Програмі покращення якості\".</string>
     <string name="user_playlist_plaza">Плейлисти</string>
     <string name="user_privacy_dialog_negative_text">Скасувати</string>
