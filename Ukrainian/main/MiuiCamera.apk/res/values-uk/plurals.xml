@@ -55,10 +55,10 @@
         <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="accessibility_auto_night_tip">
-        <item quantity="other">%d-second timer for Night mode</item>
-        <item quantity="one">%d-second timer for Night mode</item>
-        <item quantity="few">%d-second timer for Night mode</item>
-        <item quantity="many">%d-second timer for Night mode</item>
+        <item quantity="other">%d-секундний таймер для нічного режиму</item>
+        <item quantity="one">%d-секундний таймер для нічного режиму</item>
+        <item quantity="few">%d-секундний таймер для нічного режиму</item>
+        <item quantity="many">%d-секундний таймер для нічного режиму</item>
     </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Сфокусовано. Знайдено %d облич</item>
@@ -83,18 +83,6 @@
         <item quantity="one">Тривалість: %d секунда</item>
         <item quantity="few">Тривалість: %d секунди</item>
         <item quantity="many">Тривалість: %d секунд</item>
-    </plurals>
-    <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">Ви можете підключити до %d камер до одної мережі</item>
-        <item quantity="one">Ви можете підключити до %d камери до одної мережі</item>
-        <item quantity="few">Ви можете підключити до %d камер до одної мережі</item>
-        <item quantity="many">Ви можете підключити до %d камер до одної мережі</item>
-    </plurals>
-    <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">Ви можете підключити до %d моніторів до одної мережі</item>
-        <item quantity="one">Ви можете підключити до %d монітора до одної мережі</item>
-        <item quantity="few">Ви можете підключити до %d моніторів до одної мережі</item>
-        <item quantity="many">Ви можете підключити до %d моніторів до одної мережі</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Ви можете створити не більше %d клонів за раз</item>
@@ -131,12 +119,6 @@
         <item quantity="one">%1$d сек</item>
         <item quantity="few">%1$d сек</item>
         <item quantity="many">%1$d сек</item>
-    </plurals>
-    <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">Увімкнено таймер (%1$d сек). Фото будуть перенесені на цей пристрій.</item>
-        <item quantity="one">Увімкнено таймер (%1$d сек). Фото будуть перенесені на цей пристрій.</item>
-        <item quantity="few">Увімкнено таймер (%1$d сек). Фото будуть перенесені на цей пристрій.</item>
-        <item quantity="many">Увімкнено таймер (%1$d сек). Фото будуть перенесені на цей пристрій.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
@@ -191,12 +173,6 @@
         <item quantity="one">1 хв тому</item>
         <item quantity="few">%d хв тому</item>
         <item quantity="many">%d хв тому</item>
-    </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%d сек</item>
-        <item quantity="one">%d сек</item>
-        <item quantity="few">%d сек</item>
-        <item quantity="many">%d сек</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">Ваш пристрій перегрівся. Камера буде закрита через %d секунд. Ваші відео та фото будуть збережні автоматично.</item>

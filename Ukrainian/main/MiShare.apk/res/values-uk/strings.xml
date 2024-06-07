@@ -102,7 +102,7 @@
     <string name="error_p2p_create_group_failure_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
     <string name="error_p2p_recv_connect_timeout">Не вдалося підключитися. Перепідключіться до Wi-Fi на обох пристроях та повторіть спробу.</string>
     <string name="error_p2p_recv_connect_timeout_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
-    <string name="error_permission_denied">Для використання цієї функції надайте Mi Share всі необхідні дозволи у Налаштуваннях.</string>
+    <string name="error_permission_denied">Для використання цієї функції надайте Xiaomi Share всі необхідні дозволи у Налаштуваннях.</string>
     <string name="error_receive_file_cannot_read">Не вдалося отримати файл</string>
     <string name="error_receive_file_changed">"Не вдалося отримати. Об'єкт було змінено."</string>
     <string name="error_receive_file_file_opened">"Не вдалося отримати цей об'єкт. Схоже, що він використовується."</string>
@@ -121,8 +121,8 @@
     <string name="error_send_file_service_disabled">Скасовані вихідні передачі</string>
     <string name="error_send_transfer_error">"Не вдалося відправити об'єкти. Зачекайте хвилинку та повторіть спробу."</string>
     <string name="error_send_transfer_pc_error">Transfer timed out. Update Xiaomi PC Manager to the latest version and try again.</string>
-    <string name="error_slave_wifi_in_use">Mi Share неможливо використовувати, коли увімкнено дводіапазонний Wi-Fi. Відключіть функцію в Налашуваннях та повторіть спробу.</string>
-    <string name="error_slave_wifi_in_use_china">Mi Share не буде працювати, коли подвійний WLAN увімкнено. Вимкніть подвійний WLAN у Налаштуваннях та повторіть спробу.</string>
+    <string name="error_slave_wifi_in_use">Xiaomi Share неможливо використовувати, коли увімкнено дводіапазонний Wi-Fi. Відключіть функцію в Налашуваннях та повторіть спробу.</string>
+    <string name="error_slave_wifi_in_use_china">Xiaomi Share не буде працювати, коли увімкнено дводіапазонний Wi-Fi. Вимкніть подвійний WLAN у Налаштуваннях та повторіть спробу.</string>
     <string name="error_timeout">Час сесії минув. Зачекайте хвилинку та повторіть спробу.</string>
     <string name="error_user_refuse">Не вдалося відправити. Передачу було відхилено.</string>
     <string name="error_wifi_display_in_use">Неможливо відправити файли на інші пристрої під час трансляції</string>
@@ -201,17 +201,17 @@
     <string name="go_to_settings">Налаштування</string>
     <string name="guide_summary_1">Інший користувач може натиснути на перемикач у Панелі сповіщень</string>
     <string name="guide_summary_2">Виберіть пристрій, якому ви хочете надіслати дані, і натисніть на його іконку.</string>
-    <string name="guide_title_1">Відкрийте Mi Share на обох пристроях</string>
+    <string name="guide_title_1">Відкрийте Xiaomi Share на обох пристроях</string>
     <string name="guide_title_2">Виберіть пристрій для передачі</string>
     <string name="help">Не можете знайти пристрій?</string>
-    <string name="help_content">Якщо ви не можете знайти пристрій, то попросіть іншу особу увімкнути Mi Share.</string>
+    <string name="help_content">Якщо ви не можете знайти пристрій, то попросіть іншу особу увімкнути Xiaomi Share.</string>
     <string name="hide">Приховати</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Зрозуміло</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="location_enabled">Програма Mi Share увімкнула службу визначення місцерозташування для пошуку пристроїв поблизу</string>
+    <string name="location_enabled">Програма Xiaomi Share увімкнула службу визначення місцерозташування для пошуку пристроїв поблизу</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_manager_and_use_guide_title">Інформація про дозволи</string>
@@ -231,7 +231,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Share</string>
+    <string name="mi_drop">Xiaomi Share</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -239,14 +239,14 @@
     <string name="mi_share_turbo_mode">Турбо передача</string>
     <string name="midnight">Ніч</string>
     <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
-    <string name="mishare_folder_in_file_explorer">Провідник > MiShare</string>
-    <string name="mishare_service_channel_desc">Сповіщення про процеси Mi Share</string>
-    <string name="mishare_settings_summary_international">"Mi Share дозволяє переносити дані на інші пристрої поблизу по бездротовій мережі.
+    <string name="mishare_folder_in_file_explorer">Провідник > Xiaomi Share</string>
+    <string name="mishare_service_channel_desc">Сповіщення про процеси Xiaomi Share</string>
+    <string name="mishare_settings_summary_international">"Xiaomi Share дозволяє переносити дані на інші пристрої поблизу по бездротовій мережі.
 Ця функція підтримується OPPO, vivo, realme та іншими смартфонами. Зі списком сумісних пристроїв можна ознайомитися на офіційних веб-сайтах відповідних виробників."</string>
-    <string name="mishare_state_protection">Автоматично вмикати Mi Share</string>
-    <string name="mishare_state_protection_summary">Автоматично вмикати Mi Share, коли Bluetooth або Wi-Fi увімкнені</string>
-    <string name="mishare_state_protection_summary_china">Автоматично вмикати Mi Share, коли Bluetooth або WLAN увімкнені</string>
-    <string name="mishare_transefer_channel_desc">"Сповіщеня про об'єкти, які були відправлені та отримані за допомогою Mi Share"</string>
+    <string name="mishare_state_protection">Автоматично вмикати Xiaomi Share</string>
+    <string name="mishare_state_protection_summary">Автоматично вмикати Xiaomi Share, коли Bluetooth або Wi-Fi увімкнені</string>
+    <string name="mishare_state_protection_summary_china">Автоматично вмикати Xiaomi Share, коли Bluetooth або Wi-Fi увімкнені</string>
+    <string name="mishare_transefer_channel_desc">"Сповіщеня про об'єкти, які були відправлені та отримані за допомогою Xiaomi Share"</string>
     <string name="miuix_access_state_desc">Вибрано</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_action_mode_select_all">Вибрати все</string>
@@ -317,11 +317,11 @@
     <string name="nfc_check_the_touch_device">Для підключення пристроїв Wi-Fi та Bluetooth повинні бути також увімкнені на іншому пристрої. Перевірте чи має інший пристрій дозвіл на підключення у розділі \"Налаштування\" > \"Підключення та спільний доступ\" > \"Підключен пристрої\" та повторіть спробу.</string>
     <string name="nfc_check_the_touch_device_china">Для підключення пристроїв WLAN та Bluetooth повинні бути також увімкнені на іншому пристрої. Перевірте чи має інший пристрій дозвіл на підключення у розділі \"Налаштування\" > \"Підключення та спільний доступ\" > \"Підключен пристрої\" та повторіть спробу.</string>
     <string name="nfc_connect_fail">Не вдалося підключити. Зачекайте хвилинку та повторіть спробу.</string>
-    <string name="nfc_connect_fail_lyra_secure">Ви можете увімкнути Mi Share у Центрі керування в будь-який час.</string>
-    <string name="nfc_connect_fail_lyra_secure_title">Mi Share вимк.</string>
+    <string name="nfc_connect_fail_lyra_secure">Ви можете увімкнути Xiaomi Share у Центрі керування в будь-який час.</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share вимк.</string>
     <string name="nfc_connect_fail_pad">Помилка підключення</string>
     <string name="nfc_connecting">Підключення…</string>
-    <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Для рідключення пристроїв спочатку увімкніть Wi-Fi та Bluetooth на цьому пристрої. Увімкнути?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Для підключення пристроїв спочатку увімкніть Wi-Fi та Bluetooth на цьому пристрої. Увімкнути?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Для рідключення пристроїв спочатку увімкніть WLAN та Bluetooth на цьому пристрої. Увімкнути?</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Couldn't connect to computer. Make sure you've turned on Wi-Fi and Bluetooth on both your mobile device and computer, and that your computer is running Xiaomi PC Manager."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Couldn't connect to computer. Make sure you've turned on WLAN and Bluetooth on both your mobile device and computer, and that your computer is running Xiaomi PC Manager."</string>
@@ -344,16 +344,16 @@
     <string name="pc_device_model_name">"Комп'ютер"</string>
     <string name="pc_redmi_device_model_name">Ноутбук Redmi</string>
     <string name="pc_xiaomi_device_model_name">Ноутбук Xiaomi</string>
-    <string name="permission_apply_purpose">Дозвольте Mi Share виявляти пристрої поблизу та підключатися до них, щоб передавати файли.</string>
-    <string name="permission_denied_hint">Надайте необхідні дозволи, щоб мати можливість використовувати Mi Share</string>
+    <string name="permission_apply_purpose">Дозвольте Xiaomi Share виявляти пристрої поблизу та підключатися до них, щоб передавати файли.</string>
+    <string name="permission_denied_hint">Надайте необхідні дозволи, щоб мати можливість використовувати Xiaomi Share</string>
     <string name="permission_related">Дозволи</string>
     <string name="pm">ПО</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy_authorize">Авторизація</string>
     <string name="progress_ratio">%1$d%%</string>
-    <string name="purpose">"Ласкаво просимо до Mi Share! Використовуйте цю програму для передачі файлів на інші пристрої. Ми захищаємо вашу особисту інформацію, на підставі відповідних законів, правил та політики.
-Перед використанням Mi Share ви повинні надати наступні дозволи, а також дозволити збір необхідної особистої інформації:"</string>
-    <string name="purpose_v12">Ласкаво просимо до Mi Share! Ви можете використовувати цю програму для передачі файлів між пристроями.</string>
+    <string name="purpose">"Ласкаво просимо до Xiaomi Share! Використовуйте цю програму для передачі файлів на інші пристрої. Ми захищаємо вашу особисту інформацію, на підставі відповідних законів, правил та політики.
+Перед використанням Xiaomi Share ви повинні надати наступні дозволи, а також дозволити збір необхідної особистої інформації:"</string>
+    <string name="purpose_v12">Ласкаво просимо до Xiaomi Share! Ви можете використовувати цю програму для передачі файлів між пристроями.</string>
     <string name="queue_full">Завершіть поточну операцію перед додаванням наступних.</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
@@ -435,7 +435,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub_title_mishare_switch">Ця функція відключиться автоматично через %d хв</string>
     <string name="sub_title_turbo_mode">Дуже швидка передача між телефонами Xiaomi та планшетами. Мережа буде відключена під час передачі.</string>
-    <string name="sub_title_withdraw_privacy_policy_consent">Відкликання згоди з Політикою кофіденційності також відключить Mi Share</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Відкликання згоди з Політикою кофіденційності також відключить Xiaomi Share</string>
     <string name="success_receive_much_file_from_pc">Отримано більше ніж %2$d файлів від %1$s. Натисніть, щоб переглянути.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
@@ -495,22 +495,20 @@
     <string name="time_picker_label_minute">Х</string>
     <string name="tips_p2p_support_use5g">Для найкращого результату використовуйте мережу Wi-Fi 5 ГГц.</string>
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="to_feedback">Звіт</string>
-    <string name="toast_auto_close_in_minutes">Mi Share відключиться автоматично через %d хв</string>
+    <string name="toast_auto_close_in_minutes">Xiaomi Share автоматично відключится через %d хв</string>
     <string name="toast_transfering">"Перадача об'єктів. Повторіть спробу пізніше."</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
     <string name="transfer_intercept_to_remote">Не вдалося відправити: %1$s</string>
-    <string name="transfer_to_pc_summary">Остання версія програмного забезпечення AIoT, встановленого на ноутбуках Mi, сумісна з Mi Share. Ви можете перевірити список підтримуваних моделей ноутбуків на веб-сайті MIUI. Якщо ваш ноутбук знаходиться в списку, але AIoT на ньому не встановлений, оновіть драйвер BIOS і драйвер мережевого адаптера вашого ноутбука та завантажте AIoT.</string>
-    <string name="transfer_to_pc_summary_new">&lt;Data>Остання версія програмного забезпечення MIUI+, встановленого на ноутбуках Mi, сумісна з Mi Share. Список підтримуваних моделей ноутбуків доступний на веб-сайті MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Якщо ваш ноутбук є у списку, але програмне забезпечення MIUI+ не встановлено на ньому, оновіть BIOS та драйвер мережевого адаптера вашого ноутбука, а потім встановіть MIUI+.&lt;/Data></string>
-    <string name="transfer_to_pc_summary_new_plus">&lt;Data>Xiaomi PC Manager now supports Mi Share! You can find a list of supported computer models &lt;a href=%1$s>here&lt;/a>.&lt;/Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi Менеджер ПК тепер підтримує Xiaomi Share! Ви можете знайти список підтримуваних моделей комп’ютерів &lt;a href=%1$s>тут&lt;/a>.</Data></string>
     <string name="transfer_to_pc_title">"Відправляйте файли на комп'ютери"</string>
-    <string name="transfer_to_phone_summary">"Увімкніть Mi Share за допомогою перемикача в Панелі сповіщень. Після цього ви зможете побачити пристрої поблизу, коли почнете ділитися фото або файлом. Натисніть на іконку пристрою одержувача, щоб відправити об'єкт."</string>
-    <string name="transfer_to_phone_summary_new">"Увімкніть Mi Share у Центрі керування, щоб легко відправляти та отримувати об'єкти. Після увімкнення цієї функції ви зможете обмінюватися об'єктами з пристроями, які знаходяться поблизу, протягом %d хвилин, перед тим як підключення відключиться автоматично."</string>
+    <string name="transfer_to_phone_summary">"Увімкніть Xiaomi Share за допомогою перемикача в Панелі сповіщень. Після цього ви зможете побачити пристрої поблизу, коли почнете ділитися фото або файлом. Натисніть на іконку пристрою одержувача, щоб відправити об'єкт."</string>
+    <string name="transfer_to_phone_summary_new">"Увімкніть Xiaomi Share у Центрі керування, щоб легко відправляти та отримувати об'єкти. Після увімкнення цієї функції ви зможете обмінюватися об'єктами з пристроями, які знаходяться поблизу, протягом %d хвилин, перед тим як підключення відключиться автоматично."</string>
     <string name="transfer_to_phone_title">Відправляйте файли на телефони</string>
-    <string name="transfer_to_summary">Увімкніть Mi Share за допомогою перемикача в Панелі сповіщень. Після цього ви зможете побачити пристрої поблизу, коли захочете передати фото або файл. Натисніть на іконку пристрою отримувача, щоб відправити файл.</string>
-    <string name="transfer_to_summary_new">"Увімкніть Mi Share у Центрі керування, щоб легко відправляти та отримувати об'єкти. Після увімкнення цієї функції ви зможете обмінюватися об'єктами з пристроями, які знаходяться поблизу, протягом %d хвилин, перед тим як підключення відключиться автоматично."</string>
+    <string name="transfer_to_summary">"Увімкніть Xiaomi Share за допомогою перемикача в Панелі сповіщень. Після цього ви зможете побачити пристрої поблизу, коли почнете ділитися фото або файлом. Натисніть на іконку пристрою одержувача, щоб відправити об'єкт."</string>
+    <string name="transfer_to_summary_new">"Увімкніть Xiaomi Share у Центрі керування, щоб легко відправляти та отримувати об'єкти. Після увімкнення цієї функції ви зможете обмінюватися об'єктами з пристроями, які знаходяться поблизу, протягом %d хвилин, перед тим як підключення відключиться автоматично."</string>
     <string name="transfer_to_title">Передача файлів на мобільні пристрої</string>
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>
@@ -519,8 +517,8 @@
     <string name="unrecognized_manufacture">Невідомо</string>
     <string name="unrecognized_model">Невідомий пристрій</string>
     <string name="user_instructions">Увага</string>
-    <string name="uwb_guide_summary_1">Якщо ви не можете знайти потрібний пристрій, попросіть іншого користувача активувати перемикач Mi Share в Центрі керування.</string>
-    <string name="uwb_guide_title_1">Попросіть іншого користувача увімкнути Mi Share</string>
+    <string name="uwb_guide_summary_1">Якщо ви не можете знайти потрібний пристрій, попросіть іншого користувача активувати перемикач Xiaomi Share в Центрі керування.</string>
+    <string name="uwb_guide_title_1">Попросіть іншого користувача увімкнути Xiaomi Share</string>
     <string name="uwb_guide_title_2">Знаходьте цільовий пристрій швидше, ніж Beam</string>
     <string name="uwb_setting_guide">Детальніше</string>
     <string name="uwb_setting_guide_summary">Beam використовує технологію UWB для бездротового розпізнавання цільових пристроїв. Як тільки цільовий пристрій буде розпізнано, його значок буде винесений на передній план.</string>
@@ -542,7 +540,7 @@
     <string name="wifi_is_not_enabled">Спочатку увімкніть Wi-Fi</string>
     <string name="wifi_is_not_enabled_china">Спочатку увімкніть WLAN</string>
     <string name="withdraw">Відкликати</string>
-    <string name="withdraw_consent_message">Якщо ви продовжите, то ви відкличете свою згоду з Політикою конфіденційності Mi Share. Вже зібрана і збережена особиста інформація буде видалена протягом певного періоду часу відповідно до чинного законодавства, якщо не вказано інше. Так як Mi Share необхідно здійснювати збір особистої інформації для для надання послуг, то відкликання згоди з Політикою конфіденційності буде розглядатися як відмова від отримання послуг Mi Share. Продовжити?</string>
+    <string name="withdraw_consent_message">Якщо ви продовжите, то ви відкличете свою згоду з Політикою конфіденційності Xiaomi Share. Вже зібрана та збережена особиста інформація буде видалена протягом певного періоду часу відповідно до чинного законодавства, якщо не вказано інше. Так як Xiaomi Share необхідно здійснювати збір особистої інформації для для надання послуг, то відкликання згоди з Політикою конфіденційності буде розглядатися як відмова від отримання послуг Xiaomi Share. Продовжити?</string>
     <string name="withdraw_consent_title">Відкликання згоди</string>
     <string name="withdraw_with_time">Відкликати (%1$d сек)</string>
     <string name="xiaomi">Mi</string>

@@ -88,6 +88,7 @@
     <string name="fast_connect_device_battery">Батарея</string>
     <string name="fast_connect_device_box">Футляр</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
+    <string name="fast_connect_device_button_audio_share_fail">Зрозуміло</string>
     <string name="fast_connect_device_connect_cancel">Скасувати</string>
     <string name="fast_connect_device_connect_ok">Підключити</string>
     <string name="fast_connect_device_connect_retry">Повторити спробу</string>
@@ -96,6 +97,12 @@
     <string name="fast_connect_device_headset_l">Лівий</string>
     <string name="fast_connect_device_headset_r">Правий</string>
     <string name="fast_connect_device_headset_reset">Натисніть та утримуйте кнопку на футлярі</string>
+    <string name="fast_connect_device_message_audio_share">Поділіться аудіо з цього пристрою за допомогою цих навушників</string>
+    <string name="fast_connect_device_replace_current_device">Змінити пристрій</string>
+    <string name="fast_connect_device_start_audio_share">Поділитися</string>
+    <string name="fast_connect_device_title_audio_share">Слухайте разом з %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">Не вдалося підключитися до %1$s. Повторіть спробу.</string>
+    <string name="fast_connect_device_title_audio_share_success">Слухаємо разом із %1$s</string>
     <string name="fast_connect_device_title_connect_fail">Не вдалося підключити %1$s</string>
     <string name="fast_connect_device_title_connecting">Підключення…</string>
     <string name="fast_connect_device_title_find_headset">Знайти %1$s</string>

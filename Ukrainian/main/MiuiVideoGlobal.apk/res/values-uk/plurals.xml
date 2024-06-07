@@ -78,12 +78,6 @@
         <item quantity="few">Перемотати назад на %d секунди</item>
         <item quantity="many">Перемотати назад на %d секунд</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">Перехід на головну сторінку через %1$d секунд…</item>
-        <item quantity="one">Перехід на головну сторінку через %1$d секунду…</item>
-        <item quantity="few">Перехід на головну сторінку через %1$d секунди…</item>
-        <item quantity="many">Перехід на головну сторінку через %1$d секунд…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>

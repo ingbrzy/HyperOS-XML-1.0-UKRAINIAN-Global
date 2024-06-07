@@ -54,12 +54,6 @@
         <item quantity="few">%d хв назад</item>
         <item quantity="many">%d хв назад</item>
     </plurals>
-    <plurals name="clipboard_read_ai_deny_more">
-        <item quantity="other">Заблоковані %2$d спроб доступу до буфера обміну програмою %1$s</item>
-        <item quantity="one">Заблокована %2$d спроба доступу до буфера обміну програмою %1$s</item>
-        <item quantity="few">Заблоковані %2$d спроби доступу до буфера обміну програмою %1$s</item>
-        <item quantity="many">Заблоковані %2$d спроб доступу до буфера обміну програмою %1$s</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>

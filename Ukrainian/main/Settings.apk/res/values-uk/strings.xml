@@ -1815,6 +1815,7 @@
 Якщо ви вже зробили що-небудь з перерахованого вище, знову додайте свій Mi акаунт; в іншому випадку ви не зможете розблокувати свій пристрій."</string>
     <string name="bootloader_tips_ok">Зрозуміло</string>
     <string name="bootloader_tips_warning">Не відключайтеся від мережі, не виходьте з Mi акаунту, не виконуйте Скидання налаштувань або видалення системних даних.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Функції додаткових кнопок</string>
     <string name="bottomsheet_action_expand_halfway">Розгорнути нижню половину</string>
     <string name="breathing_light_color_menu_title">Колір індикатора</string>
@@ -2908,6 +2909,7 @@
     <string name="dialog_wifi_context">Для завершення налаштування вашого пристрою необхідно підключитися до інтернету. Якщо ви не підключені до мережі Wi-Fi, може бути використаний мобільний інтернет. Це може викликати додаткові витрати. Використовувати мобільний інтернет?</string>
     <string name="dialog_wifi_title">Використовується мобільний інтернет</string>
     <string name="dialog_yes">Так</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Нотатка: розблокуйте пристрій, щоб мати можливість використовувати цю програму після перезавантаження.</string>
     <string name="disable_overlays">Вимк. апаратн. накладання</string>
     <string name="disable_overlays_summary">Завжди використовувати GPU для компонування екрана</string>
@@ -2963,6 +2965,9 @@
     <string name="display_cutout_emulation">Відрізання екрана</string>
     <string name="display_cutout_emulation_keywords">відключення дисплея, переривання</string>
     <string name="display_dashboard_summary">Темна тема, розмір шрифту, яскравість</string>
+    <string name="display_notification_icon_0">Немає</string>
+    <string name="display_notification_icon_1">%d іконка</string>
+    <string name="display_notification_icon_3">%d іконки</string>
     <string name="display_prompt_confirm">Зрозуміло</string>
     <string name="display_settings">Екран</string>
     <string name="display_settings_new">Екран та яскравість</string>
@@ -2993,6 +2998,7 @@
     <string name="dndm_auto_button_title">Повторювати режим \"Не турбувати\"</string>
     <string name="dndm_auto_setting_group">За розкладом</string>
     <string name="dndm_auto_time_setting">Налаштування часу</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Закінчення</string>
     <string name="dndm_auto_time_turn_off_title">Автоматичне вимкнення режиму \"Не турбувати\"</string>
     <string name="dndm_auto_time_turn_on">Початок</string>
@@ -4689,6 +4695,7 @@ Xiaomi Cloud
     <string name="lights_title">Світловий індикатор</string>
     <string name="line_breaking_summary">Виправити порушення пунктів абзацу</string>
     <string name="line_breaking_title">Оптимізація тексту</string>
+    <string name="link_speed">%1$d Мбіт/с</string>
     <string name="link_turbo_prompt">"Статистка на цій сторінці відображає тільки обсяг даних, які використовуються для підвищення швидкості Wi-Fi з'єднання. Дана статистика не відображає фактичне використання мобільних даних."</string>
     <string name="link_turbo_settings_all_app_display_loading">Хвилинку…</string>
     <string name="link_turbo_settings_all_app_reach_max">Ви можете вибрати до 15 програм</string>
@@ -5296,6 +5303,7 @@ Xiaomi Cloud
     <string name="memory_usage">Використання пам’яті</string>
     <string name="memory_usage_apps">"Використання пам'яті додатками"</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{За ост. {time} пам’ять використовував 1 додаток}one{За ост. {time} пам’ять використовував # додаток}few{За ост. {time} пам’ять використовували # додатки}many{За ост. {time} пам’ять використовували # додатків}other{За ост. {time} пам’ять використовували # додатка}}</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">За останні 3 години було використано в середньому %1$s пам’яті</string>
     <string name="memorycard_calculating">Розрахунок…</string>
     <string name="memtag_footer">Щоб увімкнути чи вимкнути Додатковий захист пам’яті, вам потрібно буде перезапустити свій пристрій. Якщо цю функцію ввімкнено, продуктивність пристрою може знижуватися.</string>
@@ -6052,6 +6060,7 @@ Xiaomi Cloud
     <string name="nfc_more_details">Докладніше</string>
     <string name="nfc_more_title">Більше…</string>
     <string name="nfc_notification_mode_title">Нагадування про зчитування NFC-карт</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Установити за умовчанням</string>
     <string name="nfc_payment_btn_text_update">Оновити</string>
     <string name="nfc_payment_default">Додаток для платежів за умовчанням</string>
@@ -6649,6 +6658,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="power_cell">Мобільна мережа</string>
     <string name="power_center">Оптимізація батареї</string>
     <string name="power_charge_remaining">Залишилося заряджати %1$s</string>
+    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$s – %2$s до повного заряду</string>
     <string name="power_charging_future_paused">%1$s — зараджання оптимізовано</string>
     <string name="power_charging_limited">%1$s — зараджання оптимізовано</string>
@@ -6705,6 +6715,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="power_remaining_less_than_duration_only">Залишилося менше ніж %1$s</string>
     <string name="power_remaining_more_than_subtext">Залишилося понад %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Залишилося понад %1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
     <string name="power_screen">Екран</string>
     <string name="power_settings_title">Продуктивність системи</string>
     <string name="power_suggestion_battery_run_out">Акумулятор може розрядитися до %1$s</string>
@@ -6956,6 +6967,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="privileged_action_disable_sub_dialog_title">Вимкнути оператора %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Вимкнути SIM-карту?</string>
     <string name="process_dex2oat_label">Оптимізація додатка</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="process_mediaserver_label">Медіа-сервер</string>
     <string name="process_network_tethering">Використання телефона як модема</string>
     <string name="process_provider_in_use_description">Постачальник %1$s використ.</string>
@@ -7414,19 +7426,14 @@ OTG автоматично відключається через 10 хвилин
     <string name="screen_paper_mode_update_white_pkg_list_summary">Оновити список програм, які автоматично використовують Режим читання</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Автоматичне оновлення</string>
     <string name="screen_paper_texture">Текстура</string>
-    <string name="screen_pinning_description">"Закріплений додаток матиме змогу відкривати інші додатки й отримувати доступ до персональних даних. 
+    <string name="screen_pinning_description">Прикріплені програми можуть відкривати інші програми та отримувати доступ до вашої особистої інформації</string>
+    <string name="screen_pinning_dialog_message">"Ось, що можуть робити прикріплені програми:
 
-Щоб використовувати закріплення додатка: \u0009
-1. Увімкніть закріплення додатка. \u0009
-2. Відкрийте \"Огляд\". \u0009
-3. Натисніть значок додатка вгорі екрана й виберіть \"Закріпити\"."</string>
-    <string name="screen_pinning_dialog_message">"Якщо додаток закріплено, він може: 
+• Доступ до вашої особистої інформації
+(наприклад, до контактів або електронної пошти)
+• Відкриття інших програм
 
-•\u0009\u0009отримувати доступ до персональних даних 
-\u0009\u0009(наприклад, до контактів або електронних листів); 
-•\u0009\u0009відкривати інші додатки. 
-
-Використовуйте закріплення додатка лише спільно з людьми, яким довіряєте."</string>
+Використовуйте цю функцію з обережністю, ділячись цим пристроєм з іншими."</string>
     <string name="screen_pinning_guest_user_description">"Закріплений додаток матиме змогу відкривати інші додатки й отримувати доступ до персональних даних. 
 
 Якщо ви хочете без ризику надавати іншому користувачу доступ до пристрою, натомість використовуйте режим гостя. 
@@ -7435,10 +7442,11 @@ OTG автоматично відключається через 10 хвилин
 1. Увімкніть закріплення додатка. \u0009
 2. Відкрийте \"Огляд\". \u0009
 3. Натисніть значок додатка вгорі екрана й виберіть \"Закріпити\"."</string>
+    <string name="screen_pinning_summary">Закріплені програми будуть у розділі \"Нещзодавні\" до тих пір, поки ви не відкріпите їх</string>
     <string name="screen_pinning_switch_off_text">Вимкнено</string>
     <string name="screen_pinning_switch_on_text">Увімкнено</string>
-    <string name="screen_pinning_title">Закріплення додатків</string>
-    <string name="screen_pinning_unlock_none">Блокувати пристрій після відкріплення</string>
+    <string name="screen_pinning_title">Дозволити прикріпленя програм</string>
+    <string name="screen_pinning_unlock_none">Підтвердіть екран блокування, щоб відкріпити</string>
     <string name="screen_pinning_unlock_password">Запитувати пароль перед відкріпленням</string>
     <string name="screen_pinning_unlock_pattern">Ключ розблокування перед відкріпленням</string>
     <string name="screen_pinning_unlock_pin">PIN-код для відкріплення</string>
@@ -7749,6 +7757,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="security_encryption_attention_3">Вам буде потрібно задати новий пароль блокування екрана.</string>
     <string name="security_encryption_attention_4">"Переконайтеся, що ви запам'ятали свій пароль блокування екрана, інакше вам треба буде зробити повне скидання налаштувань та видалити всі дані на пристрої."</string>
     <string name="security_encryption_attention_info">Ви можете зашифрувати свої акаунти, налаштування, завантажені програми та їх дані, медіафайли та інші файли.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Важливо</string>
     <string name="security_encryption_close_dialog_info">Якщо ви вирішите не шифрувати пристрій, то використання паролю блокування екрана зробить деякі послуги Google недоступними.</string>
     <string name="security_encryption_close_dialog_title">Повернутися до шифрування системи за замовчуванням</string>
@@ -8343,6 +8352,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="size_kilo_byte">кБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">Пб</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Пропустити</string>
     <string name="skip_label">Пропустити</string>
@@ -8572,8 +8582,10 @@ OTG автоматично відключається через 10 хвилин
     <string name="status_bar_app_enable_keyguard">Екран блокування</string>
     <string name="status_bar_app_enable_message">Мітки</string>
     <string name="status_bar_carrier_settings_no_sim_card">Немає SIM-карти</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Сповіщення та рядок стану</string>
     <string name="status_bar_settings_all_app_display_loading">Секунду…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Сповіщення програм</string>
     <string name="status_bar_settings_notification_bar">Панель сповіщень</string>
     <string name="status_bar_settings_status_bar">Рядок стану</string>
@@ -8896,6 +8908,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_quick_control_all_devices">Показувати елементи керування телевізорами, динаміками та автомобілями поблизу в Центрі керування</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_first_day_of_week">Неділя</string>
     <string name="sunday_short">Нед</string>
@@ -9179,6 +9192,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="title_quick_control_all_devices">Показати елементи керування для пристроїв поблизу</string>
     <string name="title_regional_pref_footer">Якщо додаток не підтримує регіональні налаштування, він використовуватиме налаштування мови за умовчанням.</string>
     <string name="title_show_notification_icon">Показувати іконки сповіщень</string>
+    <string name="title_show_notification_icon_count">Кількість значків сповіщень, які відображаються</string>
     <string name="title_smart_device_control">Органи керування розумним пристроєм</string>
     <string name="title_special_features_health_global">Пульс</string>
     <string name="title_unavailable_locale">Вибрана мова (%s) недоступна</string>
@@ -9812,6 +9826,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="vision_settings_title">Налаштування для зору</string>
     <string name="voice_access">Голосове керування</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Мова</string>
     <string name="voice_helper_title">Голосовий помічник</string>
     <string name="voice_input_output_settings">Голосовий ввід і вивід</string>
@@ -10977,9 +10992,11 @@ OTG автоматично відключається через 10 хвилин
     <string name="zone_auto_summaryOff">Використовувати часовий пояс мережі</string>
     <string name="zone_auto_summaryOn">Використовувати часовий пояс мережі</string>
     <string name="zone_auto_title">Установити часовий пояс автоматично</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">Використовується %1$s. %2$s</string>
     <string name="zone_info_footer_no_dst">Діє %1$s. Немає переходу на літній час.</string>
     <string name="zone_info_footer_second_sentence">%1$s починається %2$s.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Сортувати за алфавітом</string>
     <string name="zone_list_menu_sort_by_timezone">Сортувати за часовим поясом</string>
     <string name="zone_menu_by_offset">За зміщенням від UTC</string>

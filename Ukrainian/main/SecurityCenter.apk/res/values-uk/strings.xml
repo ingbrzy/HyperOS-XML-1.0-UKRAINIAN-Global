@@ -343,6 +343,9 @@
     <string name="app_manager_copy_pkg_to_clip">Скопійовано до клавіатури</string>
     <string name="app_manager_data_size">Дані користувача</string>
     <string name="app_manager_default_cleared">Очищено</string>
+    <string name="app_manager_default_close_summary">Налаштування за замовчуванням не встановлені.</string>
+    <string name="app_manager_default_open_summary">Ви вибрали запуск цієї програми за замовчуванням для виконання певних дій.</string>
+    <string name="app_manager_default_open_title">Видалити налаштування за замовчуванням</string>
     <string name="app_manager_defaults_setting">Програми за замовчуванням</string>
     <string name="app_manager_details_electric_title">Батарея</string>
     <string name="app_manager_details_storage_title">Сховище</string>
@@ -481,7 +484,7 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Не забудьте очистити кеш</string>
     <string name="application_item_already_permission">Дозволено</string>
     <string name="application_item_disable">Заборонено</string>
-    <string name="application_mode_name">Розкладки для програми</string>
+    <string name="application_mode_name">Компонування в програмі</string>
     <string name="applock_add_account">Додати</string>
     <string name="applock_add_account_ignore">Не зараз</string>
     <string name="applock_add_account_ignore_with_seconds">Не зараз (%d сек)</string>
@@ -968,6 +971,7 @@
     <string name="card_main_private_space_summary">Використання Другого простору - схоже на володіння двома пристроями</string>
     <string name="card_main_private_space_title">Другий простір</string>
     <string name="card_main_sectool_title">Інструменти</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Керування відео</string>
     <string name="card_main_whatsappclean_title">Очищення WhatsАpp</string>
     <string name="card_main_xspace_action">Створити</string>
@@ -1337,6 +1341,7 @@
     <string name="dynamic_performance_optimization_title">Динамічна продуктивність</string>
     <string name="early_morning">Ранок</string>
     <string name="edit_phone_num">Змінити номер SIM-картки</string>
+    <string name="ellipsis">…</string>
     <string name="email">Ел.пошта</string>
     <string name="empty" />
     <string name="empty_app">Немає програм</string>
@@ -1414,7 +1419,9 @@
     <string name="exo_download_paused_for_wifi">Очікується підключення до Wi-Fi</string>
     <string name="exo_download_removing">Завантаження видаляються</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Альтернативна</string>
     <string name="exo_track_role_closed_captions">Субтитри</string>
     <string name="exo_track_role_commentary">Коментарі</string>
@@ -1601,6 +1608,7 @@
     <string name="fod_finger_notice_title">Помістіть палець на сенсор</string>
     <string name="fod_finger_windows_tips">Підтвердіть відбиток пальця</string>
     <string name="fod_tips_split_screen_more_than_half">Введіть пароль</string>
+    <string name="fold_application_mode_name">Компонування в програмі</string>
     <string name="forbid_autobright_summary">Автояскравіcть буде відключено під час гри та знову увімкнено після її завершення</string>
     <string name="forbid_autobright_title">Відключити автояскравість</string>
     <string name="foreground_traffic">Активний режим %s</string>
@@ -2122,7 +2130,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="group_clipboard">Клавіатура</string>
     <string name="group_connect_device">"Взаємопов'язаність"</string>
     <string name="group_file">Файли та документи</string>
-    <string name="group_file_less_t">Access files and media</string>
+    <string name="group_file_less_t">Доступ до файлів та медіа</string>
     <string name="group_head_data_ai_clipboard">Захист буфера обміну</string>
     <string name="group_head_data_camera_desc">Вимкніть, щоб обмежити доступ до камери для всіх програм</string>
     <string name="group_head_data_clipboard_desc">Вимкніть, щоб обмежити доступ до клавіатури для всіх програм</string>
@@ -2599,6 +2607,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">Дозволи</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_text_networkassistants_danger">Перевищення: %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">Залишилося: %s</string>
     <string name="menu_text_networkassistants_unit_b">Б</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
@@ -2607,6 +2616,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">Збільшити швидкість</string>
     <string name="menu_text_optimize_manage_1">Збільшити швидкість</string>
     <string name="menu_text_power_manager">Батарея</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Видалити з винятків</string>
     <string name="menu_white">Додати до винятків</string>
     <string name="mi_ime_not_used">Використовуйте клавіатуру, схвалену Xiaomi.</string>
@@ -2715,6 +2725,7 @@ to join our egg hunt!"</string>
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -3246,7 +3257,7 @@ to join our egg hunt!"</string>
     <string name="pc_wireless_charging_special_stand_summary2">Розмістіть свій пристрій на підставці, що входить до комплекту бездротового зарядного пристрою, для максимальної ефективності процесу заряджання</string>
     <string name="pc_wireless_charging_special_stand_title">Використовуйте додану підставку для заряджання</string>
     <string name="pc_wireless_handle_connected">Пристрій підключений</string>
-    <string name="pc_wireless_handle_title">Бездротова рукоятка</string>
+    <string name="pc_wireless_handle_title">Ручка камери</string>
     <string name="pc_work_in_save_mode">Економія енергії</string>
     <string name="pc_work_in_super_save_mode">Ультраекономія енергії</string>
     <string name="pc_xiaoai_create_auto_task">Нове завдання від Mi AI</string>
@@ -3307,7 +3318,7 @@ to join our egg hunt!"</string>
     <string name="permission_group_camera">Ця роздільна здатність дозволяє програмам використовувати камеру для фотографування або запису відео.</string>
     <string name="permission_group_contact">При наявності цього дозволу програми можуть отримувати доступ до контактів і змінювати їх, а також переглядати контакти програм, створені на цьому пристрої.</string>
     <string name="permission_group_file">Цей дозвіл надає програмам доступ до файлів на пристрої.</string>
-    <string name="permission_group_file_less_t">This permission allows apps to access photos, videos, audio, and other files stored on this device.</string>
+    <string name="permission_group_file_less_t">Цей дозвіл надає програмам доступ до фото, відео, аудіо та інших файлів, збережених на пристрої.</string>
     <string name="permission_group_image_video">Цей дозвіл надає програмам доступ до фото та відео на пристрої.</string>
     <string name="permission_group_location">Цей дозвіл дозволяє програмам отримувати доступ до інформації про місцезнаходження через мережу або супутник.</string>
     <string name="permission_group_microphone">Цей дозвіл дозволяє програмам використовувати мікрофон для запису аудіо.</string>
@@ -3426,7 +3437,7 @@ to join our egg hunt!"</string>
     <string name="pm_remember_choice">"Запам'ятати вибір"</string>
     <string name="pm_root_success_notification_infomation">Переконайтеся, що ви обізнані з ризиками, які може викликати ROOT-доступ</string>
     <string name="pm_root_success_notification_title">Дозволити ROOT-доступ</string>
-    <string name="popular_action_anti_spam_title_global">Блокувати виклики та повідомлення</string>
+    <string name="popular_action_anti_spam_title_global">Block spam calls</string>
     <string name="popular_action_app_lock_title_global">Захистіть програми за допомогою функції \"Захист програм\"</string>
     <string name="popular_action_card_title">Популярні функції</string>
     <string name="popular_action_first_aid_title_global">Для нових користувачів</string>
@@ -3482,6 +3493,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">Коли увімкнено економію енергії, то будуть виконані наступні оптимізації:</string>
     <string name="power_center_hints_scan_danger_result">Вирішіть проблеми з батареєю</string>
     <string name="power_center_list_item_auto_brightness">Автоматично налаштовувати яскравість</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s мАг</string>
+    <string name="power_center_list_item_battery_status_capacity">мАг</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">год</string>
     <string name="power_center_list_item_close_bluetooth">Вимкнути Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Розширені налаштування</string>
@@ -3794,6 +3810,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">Коли тарифний план було використано</string>
     <string name="pref_open_adjust_traffic">Оновлювати статистику трафіку щодня на основі даних мобільного оператора</string>
     <string name="pref_operator_not_set">Оператор не встановлений</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">При перевищенні ліміту трафіку</string>
     <string name="pref_package_traffic_settings">Тарифний план</string>
     <string name="pref_pkg_begin_date">Дата початку обліку</string>
@@ -4094,6 +4111,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">Запис звуку</string>
     <string name="privacyapp_number_masked_text">Зміст сповіщень приховано</string>
     <string name="privacyapp_number_unmasked_text">Зміст сповіщень може бути прихований</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Сервер медіа</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Реклама</string>
@@ -5329,7 +5347,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_spatial_summary_new">Покращений ефект відчуття простору та напрямку для сумісних аудіо та відео під час використання навушників</string>
     <string name="vb_video_effects_srs_premium_sound">Звук</string>
     <string name="vb_video_super_division">Масштабування зображення</string>
-    <string name="vb_video_super_division_desc">"Автоматично масштабувати зображення, якщо роздільна здатність нижче або дорівнює 720p.
+    <string name="vb_video_super_division_desc">"Автоматично масштабувати зображення, якщо роздільна здатність нижче або дорівнює ≤720p.
 
 Використання цієї функції збільшує енергоспоживання.
 
@@ -5379,6 +5397,7 @@ Rolled over extra data"</string>
     <string name="virus_update_tips_title">Попередження</string>
     <string name="virus_wait_network_dialog_message">Ваш телефон не підключено до Wi-Fi. Використати мобільний інтернет?</string>
     <string name="vtb_ai_subtitle">Субтитри</string>
+    <string name="vtb_ai_subtitle_intl">Субтитри АІ</string>
     <string name="vtb_func_desc">Детальніше про цю функцію</string>
     <string name="vtb_func_display_style_desc0">"AI може розпізнавати людей, тварин, рослин, небо, будівлі та інші об'єкти на відео і динамічно покращувати їх."</string>
     <string name="vtb_func_display_style_desc1">Вибрані ефекти не будуть застосовані до відео у форматі HDR на вибраних пристроях.</string>

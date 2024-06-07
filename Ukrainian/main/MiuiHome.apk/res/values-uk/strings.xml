@@ -151,7 +151,7 @@
     <string name="auto_add_app_shortcut">Додавати нові програми на робочий стіл</string>
     <string name="auto_delete_category_dialog_content">Поточні програми буде видалено з категорії і саму категорію також буде видалено. Видалити категорію?</string>
     <string name="auto_delete_category_dialog_title">Видалення категорії</string>
-    <string name="auto_disable_screenbuttons_summary">Автоматично відключати кнопки навігації, якщо рядок стану прихований. Подвійне натиснення на будь-яку кнопку навігації повторно активує їх.</string>
+    <string name="auto_disable_screenbuttons_summary">Автоматично вимикати кнопки навігації, якщо рядок стану прихований. Подвійне натиснення на будь-яку кнопку навігації повторно активує їх.</string>
     <string name="auto_disable_screenbuttons_title">Автоматично вимикати кнопки навігації</string>
     <string name="back">Назад</string>
     <string name="backup_fail">Помилка резервного копіювання</string>
@@ -255,7 +255,7 @@
     <string name="dual_app">Клоновані програми</string>
     <string name="early_morning">Ранок</string>
     <string name="edit">Редагувати</string>
-    <string name="edit_folder">Змінити папку</string>
+    <string name="edit_folder">Перейменувати</string>
     <string name="edit_mode_group">Група</string>
     <string name="edit_mode_top_menu_finish">Готово</string>
     <string name="edit_mode_uninstall">Видалити</string>
@@ -271,7 +271,7 @@
     <string name="exposed_dropdown_menu_content_description">Показати спадне меню</string>
     <string name="failed_to_delete_temporary">Не вдалося видалити</string>
     <string name="failed_to_drop_widget_invalid">Недійсний віджет</string>
-    <string name="find_app_by_color">Згруповуйте іконки за кольором, щоб швидше знаходити програми</string>
+    <string name="find_app_by_color">Групувати іконки за кольором, щоб швидше знаходити програми</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -353,6 +353,7 @@
     <string name="gadget_search_label">Пошук</string>
     <string name="gadget_weather_title">Погода</string>
     <string name="global_search">Пошук</string>
+    <string name="global_shelf">Пошук програм</string>
     <string name="got_it_botton">Зрозуміло</string>
     <string name="guide_install_app_msg">Ця програма не встановлена. Знайти її та встановити?</string>
     <string name="guide_install_app_title">Встановити програму?</string>
@@ -360,6 +361,7 @@
     <string name="guide_privacy_dialog_title">Умови обслуговування</string>
     <string name="home_gesture_content_center">Контент-центр</string>
     <string name="home_gesture_global_search">Пошук</string>
+    <string name="home_gesture_global_shelf">Пошук програм</string>
     <string name="home_gesture_no_action">Нічого</string>
     <string name="home_gesture_notification_and_control_center">Панель сповіщень та Центр керування</string>
     <string name="home_gesture_notification_bar">Сповіщення</string>
@@ -377,8 +379,8 @@
     <string name="international_home_pull_down_content">Проведіть вниз по робочому столі, щоб розпочати пошук на пристрої або в інтернеті.</string>
     <string name="international_home_pull_down_sub_content">Ви можете змінити дію цього жесту на відкриття Центру керування в розділі \"Налаштування\" > \"Робочий стіл\" > \"Жест вниз по робочому столі\".</string>
     <string name="international_home_pull_down_up_btn_get">Зрозуміло</string>
-    <string name="international_home_pull_up_content">Проведіть вверх по робочому столі, щоб відкрити контент-цетнр</string>
-    <string name="international_home_pull_up_sub_content">Проведіть вниз по центру робочого столу, щоб відкрити рядок пошуку.</string>
+    <string name="international_home_pull_up_content">Проведіть вгору на робочому столі, щоб відкрити контент-цетнр</string>
+    <string name="international_home_pull_up_sub_content">Проведіть вниз від центру робочого столу для пошуку програм і рекомендацій.</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="jeejen_description">"Великі об'єкти на інтерфейсі.
 Доступні виклики.
@@ -390,7 +392,7 @@
     <string name="launcher_search">Пошук на робочому столі</string>
     <string name="launcher_search_bar_title">Панель пошуку на робочому столі</string>
     <string name="launcher_slide_up_title">Жест вгору на робочому столі</string>
-    <string name="launcher_sliding_up_gesture">Проведіть вверх на робочому столі, щоб відкрити пошук</string>
+    <string name="launcher_sliding_up_gesture">Проведіть вгору на робочому столі, щоб відкрити пошук</string>
     <string name="launcher_title">Робочий екран та Нещодавні</string>
     <string name="layout_guide_description">Якщо вам не подобається Меню програм, ви можете в будь-який час переключитися на класичний режим відображення. Скористайтеся ярликом \"Налаштування робочого столу\" для перемикання між двома режимами.</string>
     <string name="layout_guide_tip_title">Перемикання режимів відображення одним натисненням.</string>
@@ -443,7 +445,7 @@
     <string name="mi_wallpaper">Теми MIUI</string>
     <string name="midnight">Ніч</string>
     <string name="minus_one_screen">Стрічка віджетів</string>
-    <string name="miui_screen_config_title">Налаштування робочого столу</string>
+    <string name="miui_screen_config_title">Робочий стіл</string>
     <string name="miui_setting_config_title">Налаштування робочого столу</string>
     <string name="miui_widget_menu_replace_text">Замінити</string>
     <string name="miui_widget_toast_for_not_support_by_pa">Стрічка віджетів не підтримує віджети такого розміру</string>
@@ -519,6 +521,7 @@
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -546,7 +549,7 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим введення тексту</string>
     <string name="mtrl_picker_toggle_to_year_selection">Натисніть, щоб вибрати рік</string>
     <string name="mtzgadget_missing_text">Віджет недоступний</string>
-    <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведіть вверх від нижньої частини екрана, а потім проведіть вліво або вправо</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведіть вгору від нижньої частини екрана, а потім проведіть вліво або вправо</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведіть вліво або вправо від індикатора повноекранного режиму або від нижньої частини екрана</string>
     <string name="navigation_guide_app_quick_switch_title">Перемикайтеся між програмами</string>
     <string name="navigation_guide_app_summary">Проведіть вліво або вправо від краю екрана у його верхній частині</string>
@@ -567,9 +570,9 @@
     <string name="navigation_guide_gesture_line_dialog_title">Ознайомитися з новим жестом</string>
     <string name="navigation_guide_hide_gesture_line_summary">Не показувати індикатор повноекранного режиму під час використання повноекранних жестів</string>
     <string name="navigation_guide_hide_gesture_line_title">Приховати індикатор повноекранного режиму</string>
-    <string name="navigation_guide_home_summary">Проведіть вверх</string>
+    <string name="navigation_guide_home_summary">Проведіть вгору</string>
     <string name="navigation_guide_home_title">Перейти на робочий стіл</string>
-    <string name="navigation_guide_recent_summary">Проведіть вверх та зупиніться</string>
+    <string name="navigation_guide_recent_summary">Проведіть вгору та зупиніться</string>
     <string name="navigation_guide_recent_title">Відкрити Нещодавні</string>
     <string name="navigation_guide_settings">Демо-жести</string>
     <string name="navigation_position_center">По центру</string>
@@ -648,8 +651,9 @@
     <string name="recent_menu_item_info">Інформація</string>
     <string name="recent_menu_item_lock">Блокувати</string>
     <string name="recent_menu_item_unlock">Розблокувати</string>
-    <string name="recent_menu_item_worldcirculate">应用流转</string>
-    <string name="recent_menu_item_worldcirculate_disable">应用无法流转</string>
+    <string name="recent_menu_item_worldcirculate">Передача завдань програм</string>
+    <string name="recent_menu_item_worldcirculate_disable">Неможливо передати завдання програм між підлюченними пристроями</string>
+    <string name="recent_pin_text">Закріпити</string>
     <string name="recents_app_info_button_label">Інформація про програму</string>
     <string name="recents_config_title">Останні</string>
     <string name="recents_dimiss_task">Очистити</string>
@@ -674,7 +678,7 @@
     <string name="recnets_worldcirculate_display_computer_info">Цю програму запущено на %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Натисніть, щоб повернути це сюди.</string>
     <string name="recnets_worldcirculate_display_pad_info">Цю програму запущено на %s.</string>
-    <string name="recommend_app">Пропозиції програми</string>
+    <string name="recommend_app">Пропозиції програм</string>
     <string name="recommend_apps_default_title">Порожньо</string>
     <string name="recommend_apps_notice">Рекомендації на сьогодні</string>
     <string name="recommend_apps_switch_title">Рекомендації на сьогодні</string>
@@ -731,6 +735,7 @@
     <string name="small_window">Спливаюче вікно</string>
     <string name="start_activity_failed">Не вдалося запустити робочий стіл</string>
     <string name="start_new_window">Нове вікно</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
     <string name="status_bar_recent_memory_info1">%1$s з %2$s доступно</string>
     <string name="status_bar_recent_memory_info2" />
@@ -748,8 +753,10 @@
     <string name="switch_personal_assistant_app_vault">Стрічка віджетів</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Немає</string>
+    <string name="switch_personal_assistant_summary">Проведіть вгору на робочому столі, щоб відкрити Google Discover</string>
     <string name="switch_screen_button_order">Поміняти місцями кнопки</string>
     <string name="switch_screen_button_order_desc">Поміняти місцями кнопки \"Назад\" та \"Меню\"</string>
+    <string name="system_sdk_disabled_toast">Необхідно увімкнути системний SDK.</string>
     <string name="system_shortcuts_edit">Змінити</string>
     <string name="system_shortcuts_icon_remove">Видалити</string>
     <string name="system_shortcuts_more_operation">Інформація</string>

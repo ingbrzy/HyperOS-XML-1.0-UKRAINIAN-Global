@@ -75,6 +75,7 @@
     <string name="ad_bar_notification_setting_title">Події</string>
     <string name="ad_click_to_play">Торкніться, щоб відтворити</string>
     <string name="ad_flag_text">Реклама</string>
+    <string name="ad_topview_repeat_play">Натисніть, щоб повторити</string>
     <string name="add_local_shortcut_add">Додати</string>
     <string name="add_local_shortcut_des">Додайте ярлик \"Мої відео\" на робочий стіл для швидкого доступу до локальних відеофайлів.</string>
     <string name="add_search_channel_link">URL</string>
@@ -134,6 +135,7 @@
     <string name="cast_forward">Перемотати вперед</string>
     <string name="cast_forward_10">Перемотати вперед на 10 секунд</string>
     <string name="cast_forward_30">Перемотати вперед на 30 секунд</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ТРАНСЛЯЦІЯ</string>
     <string name="cast_mute">Вимкнути звук</string>
     <string name="cast_notification_connected_message">Під’єднано до екрана %1$s</string>
@@ -261,7 +263,7 @@ ID:%s
     <string name="dialog_cancel">Скасувати</string>
     <string name="dialog_clearn_content">Очистити історію переглядів зараз?</string>
     <string name="dialog_clearn_title">Очистити історію</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">Додати</string>
     <string name="dialog_delete_bookmarks_content">Видалити закладку зараз?</string>
     <string name="dialog_disagree_continue">Продовжити</string>
     <string name="dialog_disagree_info">Якщо ви не приймите Політику конфіденційності Mi Відео, ви не зможете користуватися нашими онлайн-послугами, а зможете тільки переглядати відео, які зберігаються на вашому пристрої. Продовжити?</string>
@@ -330,6 +332,8 @@ ID:%s
     <string name="download_unable_tip">"Не вдалося завантажи цей об'єкт"</string>
     <string name="download_video">Завантаження відео</string>
     <string name="downloading">Завантаження…</string>
+    <string name="draw_ad_button_click_text">Струсіть або натисніть, щоб відкрити</string>
+    <string name="draw_ad_button_slide_text">Проведіть, щоб переглянути деталі</string>
     <string name="early_morning">Ранок</string>
     <string name="empty" />
     <string name="empty_channels">Керувати каналами</string>
@@ -414,14 +418,10 @@ ID:%s
     <string name="feedback_activity_title">Відгук</string>
     <string name="feedback_contact_empty">Введіть свою контактну інформацію</string>
     <string name="feedback_contact_title">Контактна інформація</string>
-    <string name="feedback_detail_input_hint">Введіть повідомлення</string>
-    <string name="feedback_hint">Опишіть проблему, з якою ви зіткнулися.</string>
     <string name="feedback_hint_contact">Телефон/QQ/Ел.пошта</string>
     <string name="feedback_hint_text">Опишіть проблему, з якою ви зіткнулися.</string>
-    <string name="feedback_input_tip">Тут ви можете описати проблему або залишити вашу пропозицію.</string>
     <string name="feedback_net_error">Не вдалося відправити. Перевірте налаштування мережі та повторіть спробу.</string>
     <string name="feedback_sent">Відправити</string>
-    <string name="feedback_success">Відправлено успішно</string>
     <string name="feedback_success_toast">Надіслано успішно, дякуємо за ваш відгук!</string>
     <string name="feedback_tag_title">Категорія</string>
     <string name="feedback_text_empty_toast">Спочатку введіть ваш відгук.</string>
@@ -642,6 +642,7 @@ ID:%s
     <string name="hidden_channels">Наступні канали не відображатимуться на головній сторінці.</string>
     <string name="hide">Приховати</string>
     <string name="hide_video_toast">"Цей об'єкт був прихований. Ви можете знайти приховані об'єкти та керувати ними в розділі \"Локальні\" > \"Папки\" > \"Приховані об'єкти\"."</string>
+    <string name="hiding_dialog_ok">Встановити</string>
     <string name="hint_icon_ad_title">Рекомендовано</string>
     <string name="hint_in_mivideo">Тепер додаткові функції розміщені на боковій панелі</string>
     <string name="history">Історія</string>
@@ -695,7 +696,6 @@ ID:%s
     <string name="inline_mute_click_tip">Натисніть, щоб увімкнути звук</string>
     <string name="input_email_address_notice">Ми використаємо цю адресу електронної пошти, щоб перевірити ваш аккаунт</string>
     <string name="input_new_pwd">Введіть новий пароль</string>
-    <string name="input_size_tips_new">Ви можете ввести до %d символів</string>
     <string name="isornot_your_mi_account">Це ваш Mi аккаунт?</string>
     <string name="item_card_all_replies">Всі відповіді</string>
     <string name="item_card_continue_play">Автовідтворення</string>
@@ -799,7 +799,6 @@ ID:%s
     <string name="local_zoom_adjust_button">Перемикання режиму відображення</string>
     <string name="lock_screen">Екран блокування</string>
     <string name="login">Увійти</string>
-    <string name="login_tip">Увійдіть, щоб отримати наші відповіді.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Вихід</string>
     <string name="logout_account">Вихід</string>
@@ -887,6 +886,7 @@ ID:%s
     <string name="manager_request_continue">Дозволити</string>
     <string name="manager_request_tip">Більше не показувати</string>
     <string name="manager_request_title">Неможливо отримати доступ до цього файлу</string>
+    <string name="mangotv_episode">Епізод %d</string>
     <string name="mangotv_feature_list_title3">Додано серію %s</string>
     <string name="mangotv_feature_more">Ще</string>
     <string name="mangotv_feature_title1">Серії</string>
@@ -916,11 +916,13 @@ ID:%s
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>
     <string name="miuix_appcompat_select_all_description">Вибрати все</string>
     <string name="miuix_appcompat_select_item">Вибрати елементи</string>
+    <string name="miuix_dialog_ok">OK</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
@@ -1016,6 +1018,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -1045,7 +1048,6 @@ ID:%s
     <string name="music_new_user_dialog_got_it">Зрозуміло</string>
     <string name="music_new_user_dialog_tip">Ласкаво просимо до Мі Відео! Ця програма надає локальний відеопрогравач та онлайн-сервіси потокової передачі музики і відео.</string>
     <string name="my_favorite_channels">Улюблені канали</string>
-    <string name="my_feedback_title">Мій відгук</string>
     <string name="native_body">Основний текст</string>
     <string name="native_headline">Заголовок</string>
     <string name="native_media_view">Графічний контент</string>
@@ -1056,6 +1058,7 @@ ID:%s
     <string name="network_failed">Не вдалося підключитися до мережі</string>
     <string name="newyearfestival_go_to_draw_prizes">Лотерея</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Подивіться відео, щоб взяти участь</string>
+    <string name="next_button">Далі</string>
     <string name="nick_name">Нік</string>
     <string name="night">Вечір</string>
     <string name="no_account">Вхід не здійснено</string>
@@ -1105,6 +1108,7 @@ ID:%s
     <string name="online_play_start_ready_loading_tip_kb">Завантаження %.2f кБ/с</string>
     <string name="online_play_start_ready_loading_tip_mb">Завантаження %.2f МБ/с</string>
     <string name="online_play_title">Введіть URL</string>
+    <string name="order_alphabet">А-Я</string>
     <string name="order_recently_subscribe">Нещодавні підписки</string>
     <string name="order_recently_updated">Нещодавні</string>
     <string name="out_of_memory_background_playback_is_suspended">"Відтворення у фоновому режимі призупинено через недостатню кількість пам'яті."</string>
@@ -1241,6 +1245,8 @@ ID:%s
     <string name="photoPickerNotFoundText">Немає доступних фото.</string>
     <string name="pip">Картинка в картинці</string>
     <string name="pip_not_supported_toast">Оновіть до останньої версії, щоб мати можливість використовувати режим \"Картинка в картинці\".</string>
+    <string name="play_at_normal_speed">Відтворення на швидкості 1X</string>
+    <string name="play_at_speed">Відтворення на швидкості %.1fX</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Створити плейлист</string>
     <string name="play_list_save_dialog_title">Додати до плейлиста</string>
@@ -1412,6 +1418,7 @@ ID:%s
     <string name="remaining_space_not_enough">"Неможливо завантажити через недостатній обсяг вільної пам'яті"</string>
     <string name="reminder">Увага</string>
     <string name="rename">Перейменувати</string>
+    <string name="rename_dialog_ok">OK</string>
     <string name="rename_word_out">"Це ім'я занадто довге"</string>
     <string name="report">Повідомити</string>
     <string name="report_content_dislike">Насильство або неналежна поведінка</string>
@@ -1480,6 +1487,7 @@ ID:%s
     <string name="shake_to_open_ad">Струсіть для перегляду інформації</string>
     <string name="share">Поділитися</string>
     <string name="share_text_before_link">Безкоштовно переглядайте та завантажуйте неймовірні відео з Мі Відео</string>
+    <string name="share_title">Поділитися</string>
     <string name="share_ugc_waitting">Створення посилання…</string>
     <string name="shorts_assemble_ad_recommend">Рекомендоване</string>
     <string name="show_the_location">Тип сповіщень</string>
@@ -1494,7 +1502,8 @@ ID:%s
     <string name="slide_or_click_to_open_ad">Проведіть або натисніть для перегляду інформації</string>
     <string name="slide_save_message">Створення відео…</string>
     <string name="slide_to_open_ad">Проведіть для перегляду інформації</string>
-    <string name="small_video_load_more_hint">Проведіть вверх для відтворення інших відео</string>
+    <string name="small_mango_play_next_episode">Наступна серія</string>
+    <string name="small_video_load_more_hint">Проведіть вгору для відтворення інших відео</string>
     <string name="small_video_report">Поскаржитися</string>
     <string name="small_video_report_dialog_title">Виберіть причину</string>
     <string name="small_video_report_submit">Відправити</string>
@@ -1506,9 +1515,9 @@ ID:%s
     <string name="sns_sign_in">Інші способи авторизації</string>
     <string name="source">"Джерело: "</string>
     <string name="start_download_tip">Додано до черги. Перевірте прогрес у Профіль > Завантаження.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">"Пам'ять пристрою"</string>
-    <string name="submit">Відправити</string>
     <string name="subscribe">ПІДПИСАТИСЯ</string>
     <string name="subscribe_author_recommend_btn">Підписатися</string>
     <string name="subscribe_author_recommend_title">Підпишіться, щоб переглядати останні відео від цих авторів</string>
@@ -1528,6 +1537,7 @@ ID:%s
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Нд</string>
     <string name="sure_to_logout">Вийти зараз?</string>
+    <string name="swipe_to_exit">Проведіть ще раз для виходу</string>
     <string name="switch_ratio_pause">Швидкість відтворення нестабільна. Повернення до швидкості за замовчуванням.</string>
     <string name="sync_favorites_limit_new">В обраному більше %d відео. Щоб продовжити синхронізацію, нам доведеться видалити декілька старих відео.</string>
     <string name="sync_favorites_message">"Синхронізувати обрене на цьому пристрої з вашим акаунтом? Більше не доступні об'єкти будуть видалені."</string>
@@ -1654,7 +1664,6 @@ ID:%s
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Ця нагорода на даний час недоступна. Повторіть спробу пізніше.</string>
     <string name="toast_m3u8_download_path_tip">Неможливо змінити шлях завантаження для матеріалів у форматі m3u8.</string>
     <string name="toast_play_error_tip">Неможливо відтворити цей файл</string>
-    <string name="toast_request_too_frequently">Не так швидко!</string>
     <string name="toast_share_failed">Не вдалося поділитися. Зачекайте хвилинку і повторіть спробу.</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
@@ -1663,9 +1672,6 @@ ID:%s
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="type_content">Зміст</string>
-    <string name="type_issue">Проблема</string>
-    <string name="type_suggestion">Пропозиція</string>
     <string name="ugc_no_net">Не вдалося підключитися до мережі. Перевірте налаштування мережі та повторіть спробу.</string>
     <string name="ui_common_title_back">Назад</string>
     <string name="unknow">Невідомий</string>
@@ -1690,7 +1696,7 @@ ID:%s
     <string name="v_menu_hide">Приховати</string>
     <string name="v_more">Ще</string>
     <string name="v_next">Далі</string>
-    <string name="v_ok">OK</string>
+    <string name="v_ok">Далі</string>
     <string name="v_online_play">Онлайн-трансляції</string>
     <string name="v_pw_need_update_app">Оновіть Mi Відео, щоб користуватися всіма функціями</string>
     <string name="v_save">Зберегти</string>
@@ -1701,6 +1707,7 @@ ID:%s
     <string name="video_download_fail">Не вдалося завантажити відео</string>
     <string name="video_download_fail_hint">Не вдалося завантажити</string>
     <string name="video_download_floating_guide">Безкоштовне завантаження відео</string>
+    <string name="video_download_folder">Завантажені відео</string>
     <string name="video_download_folder_title">Завантаження Мі Відео</string>
     <string name="video_download_forbidden">Завантаження з цього веб-сайту недоступно</string>
     <string name="video_download_login_guide">Увійдіть до %s, щоб завантажити відео</string>

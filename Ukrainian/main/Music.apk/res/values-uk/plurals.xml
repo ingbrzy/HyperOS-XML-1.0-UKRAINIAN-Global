@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Total %d songs</item>
-        <item quantity="one">Всього %d пісень</item>
-        <item quantity="few">Total %d songs</item>
-        <item quantity="many">Total %d songs</item>
+        <item quantity="other">Всього пісень: %d</item>
+        <item quantity="one">Всього пісень: %d</item>
+        <item quantity="few">Всього пісень: %d</item>
+        <item quantity="many">Всього пісень: %d</item>
     </plurals>
     <plurals name="Nassociate_songs">
         <item quantity="other">Пошук обкладинок та текстів (%1$d/%2$d)</item>
@@ -13,60 +13,60 @@
         <item quantity="many">Пошук обкладинок та текстів (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
-        <item quantity="one">"Ваша підписка закінчується через %d днів.
+        <item quantity="other">"Ваша підписка закінчується через %d дн.
 Допомогти вам продовжити її?"</item>
-        <item quantity="few">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
-        <item quantity="many">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
+        <item quantity="one">"Ваша підписка закінчується через %d дн.
+Допомогти вам продовжити її?"</item>
+        <item quantity="few">"Ваша підписка закінчується через %d дн.
+Допомогти вам продовжити її?"</item>
+        <item quantity="many">"Ваша підписка закінчується через %d дн.
+Допомогти вам продовжити її?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
-        <item quantity="one">Ви можете завантажити %1$d безкоштовних пісень. Завантажити %2$s зараз?</item>
-        <item quantity="few">You can download %1$d free songs. Download %2$s now?</item>
-        <item quantity="many">You can download %1$d free songs. Download %2$s now?</item>
+        <item quantity="other">Ви можете завантажити %1$d безкоштовних пісень. Завантажити %2$s зараз?</item>
+        <item quantity="one">Ви можете завантажити %1$d безкоштовну пісню. Завантажити %2$s зараз?</item>
+        <item quantity="few">Ви можете завантажити %1$d безкоштовні пісні. Завантажити %2$s зараз?</item>
+        <item quantity="many">Ви можете завантажити %1$d безкоштовних пісень. Завантажити %2$s зараз?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Player will stop in %d minutes</item>
-        <item quantity="one">Плеєр зупиниться через %d хвилин</item>
-        <item quantity="few">Player will stop in %d minutes</item>
-        <item quantity="many">Player will stop in %d minutes</item>
+        <item quantity="other">Плеєр зупиниться через %d хв</item>
+        <item quantity="one">Плеєр зупиниться через %d хв</item>
+        <item quantity="few">Плеєр зупиниться через %d хв</item>
+        <item quantity="many">Плеєр зупиниться через %d хв</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Created on %1$s 
-total %2$d songs"</item>
+        <item quantity="other">"Створено %1$s 
+всього %2$d пісень"</item>
         <item quantity="one">"Створено %1$s 
 всього %2$d пісня"</item>
-        <item quantity="few">"Created on %1$s 
-total %2$d songs"</item>
-        <item quantity="many">"Created on %1$s 
-total %2$d songs"</item>
+        <item quantity="few">"Створено %1$s 
+всього %2$d пісні"</item>
+        <item quantity="many">"Створено %1$s 
+всього %2$d пісень"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d song added to playlist</item>
-        <item quantity="one">%d song added to playlist</item>
-        <item quantity="few">%d song added to playlist</item>
-        <item quantity="many">%d song added to playlist</item>
+        <item quantity="other">Додано пісень до плейлиста: %d</item>
+        <item quantity="one">Додано пісень до плейлиста: %d</item>
+        <item quantity="few">Додано пісень до плейлиста: %d</item>
+        <item quantity="many">Додано пісень до плейлиста: %d</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d songs</item>
+        <item quantity="other">Пісень: %d</item>
         <item quantity="one">Пісень: %d</item>
-        <item quantity="few">%d songs</item>
-        <item quantity="many">%d songs</item>
+        <item quantity="few">Пісень: %d</item>
+        <item quantity="many">Пісень: %d</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d songs removed from playlist</item>
+        <item quantity="other">Видалено пісень з плейлиста: %d</item>
         <item quantity="one">Видалено пісень з плейлиста: %d</item>
-        <item quantity="few">%d songs removed from playlist</item>
-        <item quantity="many">%d songs removed from playlist</item>
+        <item quantity="few">Видалено пісень з плейлиста: %d</item>
+        <item quantity="many">Видалено пісень з плейлиста: %d</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d similar songs</item>
+        <item quantity="other">Схожих пісень: %d</item>
         <item quantity="one">Схожих пісень: %d</item>
-        <item quantity="few">%d similar songs</item>
-        <item quantity="many">%d similar songs</item>
+        <item quantity="few">Схожих пісень: %d</item>
+        <item quantity="many">Схожих пісень: %d</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Годину тому</item>
@@ -141,28 +141,28 @@ total %2$d songs"</item>
         <item quantity="many">%1$d пісень</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
-        <item quantity="one">%d коментарів</item>
-        <item quantity="few">%d comments</item>
-        <item quantity="many">%d comments</item>
+        <item quantity="other">%d коментарів</item>
+        <item quantity="one">%d коментар</item>
+        <item quantity="few">%d коментаря</item>
+        <item quantity="many">%d коментарів</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
+        <item quantity="other">%d дн тому</item>
         <item quantity="one">%d дн тому</item>
-        <item quantity="few">%d days ago</item>
-        <item quantity="many">%d days ago</item>
+        <item quantity="few">%d дн тому</item>
+        <item quantity="many">%d дн тому</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Delete %d songs?</item>
-        <item quantity="one">Видалити %d пісень?</item>
-        <item quantity="few">Delete %d songs?</item>
-        <item quantity="many">Delete %d songs?</item>
+        <item quantity="other">Видалити %d пісень?</item>
+        <item quantity="one">Видалити %d пісню?</item>
+        <item quantity="few">Видалити %d пісні?</item>
+        <item quantity="many">Видалити %d пісень?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Remove %d songs?</item>
-        <item quantity="one">Видалити %d пісень?</item>
-        <item quantity="few">Remove %d songs?</item>
-        <item quantity="many">Remove %d songs?</item>
+        <item quantity="other">Видалити %d пісень?</item>
+        <item quantity="one">Видалити %d пісню?</item>
+        <item quantity="few">Видалити %d пісні?</item>
+        <item quantity="many">Видалити %d пісень?</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
         <item quantity="other">%d із вибраних пісень зберігаються у зовнішній папці. Надайте необхідні дозволи, щоб видалити.</item>
@@ -185,14 +185,14 @@ total %2$d songs"</item>
     <plurals name="feed_play_times">
         <item quantity="other">%s переглядів</item>
         <item quantity="one">%s перегляд</item>
-        <item quantity="few">%s перегляда</item>
+        <item quantity="few">%s перегляди</item>
         <item quantity="many">%s переглядів</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d free downloads left</item>
-        <item quantity="one">Залишилося %d безкоштовних завантажень</item>
-        <item quantity="few">%d free downloads left</item>
-        <item quantity="many">%d free downloads left</item>
+        <item quantity="other">Залишилося %d безкоштовних завантажень</item>
+        <item quantity="one">Залишилося %d безкоштовне завантаження</item>
+        <item quantity="few">Залишилося %d безкоштовних завантаження</item>
+        <item quantity="many">Залишилося %d безкоштовних завантажень</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
@@ -201,10 +201,10 @@ total %2$d songs"</item>
         <item quantity="many">Півгодини тому</item>
     </plurals>
     <plurals name="hide_reason_duration">
-        <item quantity="other">Less than %1$ds</item>
-        <item quantity="one">Less than %1$ds</item>
-        <item quantity="few">Less than %1$ds</item>
-        <item quantity="many">Less than %1$ds</item>
+        <item quantity="other">Менше %1$d сек</item>
+        <item quantity="one">Менше %1$d сек</item>
+        <item quantity="few">Менше %1$d сек</item>
+        <item quantity="many">Менше %1$d сек</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через годину</item>
@@ -237,16 +237,16 @@ total %2$d songs"</item>
         <item quantity="many">Тільки що</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d послідовників</item>
-        <item quantity="few">%d followers</item>
-        <item quantity="many">%d followers</item>
+        <item quantity="other">Послідовників: %d</item>
+        <item quantity="one">Послідовників: %d</item>
+        <item quantity="few">Послідовників: %d</item>
+        <item quantity="many">Послідовників: %d</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">Following %d people</item>
-        <item quantity="one">%d людей в підписках</item>
-        <item quantity="few">Following %d people</item>
-        <item quantity="many">Following %d people</item>
+        <item quantity="other">Людей в підписках: %d</item>
+        <item quantity="one">Людей в підписках: %d</item>
+        <item quantity="few">Людей в підписках: %d</item>
+        <item quantity="many">Людей в підписках: %d</item>
     </plurals>
     <plurals name="media_store_new_songs_add">
         <item quantity="other">%d нових пісень</item>
@@ -267,10 +267,10 @@ total %2$d songs"</item>
         <item quantity="many">%d нових сповіщень</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">Вибрано %d елементів</item>
-        <item quantity="few">%d items selected</item>
-        <item quantity="many">%d items selected</item>
+        <item quantity="other">"Вибрано об'єктів: %d"</item>
+        <item quantity="one">"Вибрано об'єктів: %d"</item>
+        <item quantity="few">"Вибрано об'єктів: %d"</item>
+        <item quantity="many">"Вибрано об'єктів: %d"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хв тому</item>
@@ -279,10 +279,10 @@ total %2$d songs"</item>
         <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d підписників</item>
-        <item quantity="few">%d followers</item>
-        <item quantity="many">%d followers</item>
+        <item quantity="other">%d послідовників</item>
+        <item quantity="one">%d послідовник</item>
+        <item quantity="few">%d послідовника</item>
+        <item quantity="many">%d послідовників</item>
     </plurals>
     <plurals name="reward_seconds_remaining">
         <item quantity="other">VIP-підписка через %d секунд</item>
@@ -291,58 +291,58 @@ total %2$d songs"</item>
         <item quantity="many">VIP-підписка через %d секунд</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d songs will be sent</item>
+        <item quantity="other">Плеєр зупиниться через %d хв</item>
         <item quantity="one">Буде відправлено пісень: %d</item>
-        <item quantity="few">%d songs will be sent</item>
-        <item quantity="many">%d songs will be sent</item>
+        <item quantity="few">Плеєр зупиниться через %d хв</item>
+        <item quantity="many">Плеєр зупиниться через %d хв</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="one">Пропущено %d пісень. Увімкніть онлайн-послуги у налаштуваннях, щоб прослухати їх.</item>
-        <item quantity="few">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="many">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="other">Пропущено %d пісень. Увімкніть онлайн-послуги у налаштуваннях, щоб прослухати їх.</item>
+        <item quantity="one">Пропущена %d пісня. Увімкніть онлайн-послуги у налаштуваннях, щоб прослухати її.</item>
+        <item quantity="few">Пропущено %d пісні. Увімкніть онлайн-послуги у налаштуваннях, щоб прослухати їх.</item>
+        <item quantity="many">Пропущено %d пісень. Увімкніть онлайн-послуги у налаштуваннях, щоб прослухати їх.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Songs have been favorited.</item>
-        <item quantity="one">Пісні вже в обраному.</item>
-        <item quantity="few">Songs have been favorited.</item>
-        <item quantity="many">Songs have been favorited.</item>
+        <item quantity="other">Пісні вже в обраних.</item>
+        <item quantity="one">Пісня вже в обраних.</item>
+        <item quantity="few">Пісні вже в обраних.</item>
+        <item quantity="many">Пісні вже в обраних.</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
+        <item quantity="other">Пісень: %d</item>
         <item quantity="one">Пісень: %d</item>
-        <item quantity="few">%d songs</item>
-        <item quantity="many">%d songs</item>
+        <item quantity="few">Пісень: %d</item>
+        <item quantity="many">Пісень: %d</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Crossfade between songs: %d seconds</item>
+        <item quantity="other">Плавний перехід між піснями: %d сек</item>
         <item quantity="one">Плавний перехід між піснями: %d сек</item>
-        <item quantity="few">Crossfade between songs: %d seconds</item>
-        <item quantity="many">Crossfade between songs: %d seconds</item>
+        <item quantity="few">Плавний перехід між піснями: %d сек</item>
+        <item quantity="many">Плавний перехід між піснями: %d сек</item>
     </plurals>
     <plurals name="task_guide">
-        <item quantity="other">Earn %1$d coins today</item>
-        <item quantity="one">Earn %1$d coin today</item>
-        <item quantity="few">Earn %1$d coins today</item>
-        <item quantity="many">Earn %1$d coins today</item>
+        <item quantity="other">Отримайте сьогодні %1$d монет</item>
+        <item quantity="one">Отримайте сьогодні %1$d монету</item>
+        <item quantity="few">Отримайте сьогодні %1$d монети</item>
+        <item quantity="many">Отримайте сьогодні %1$d монет</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">Videos</item>
+        <item quantity="other">Відео</item>
         <item quantity="one">Відео</item>
-        <item quantity="few">Videos</item>
-        <item quantity="many">Videos</item>
+        <item quantity="few">Відео</item>
+        <item quantity="many">Відео</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
-        <item quantity="one">%1$s переглядів</item>
-        <item quantity="few">%1$s views</item>
-        <item quantity="many">%1$s views</item>
+        <item quantity="other">Переглядів: %1$s</item>
+        <item quantity="one">Переглядів: %1$s</item>
+        <item quantity="few">Переглядів: %1$s</item>
+        <item quantity="many">Переглядів: %1$s</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d days remaining</item>
+        <item quantity="other">Залишилося днів: %d</item>
         <item quantity="one">Залишилося днів: %d</item>
-        <item quantity="few">%d days remaining</item>
-        <item quantity="many">%d days remaining</item>
+        <item quantity="few">Залишилося днів: %d</item>
+        <item quantity="many">Залишилося днів: %d</item>
     </plurals>
     <plurals name="web_reward_dialog_title">
         <item quantity="other">Якщо ви подивитеся ще %d секунд, то зможете отримати в якості нагороди VIP-підписку. Вийти?</item>

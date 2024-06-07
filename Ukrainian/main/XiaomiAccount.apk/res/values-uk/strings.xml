@@ -93,18 +93,14 @@
     <string name="binded">Підключено</string>
     <string name="binded_description" formatted="false">"%s було підключено до вашого Xiaomi акаунту.
 Тепер ви можете входити до вашого Xiaomi акаунту за допомогою %s."</string>
-    <string name="bottomsheet_action_expand_halfway">Розгорнути нижню половину</string>
     <string name="button_agree">Погодитися</string>
     <string name="button_close">Закрити</string>
     <string name="button_refuse">Відхилити</string>
     <string name="button_unbind">Відключити</string>
     <string name="cancel">Скасувати</string>
     <string name="change_password">Змінити пароль</string>
-    <string name="character_counter_content_description">Введено символів: %1$d з %2$d</string>
-    <string name="character_counter_overflowed_content_description">Перевищено ліміт символів: %1$d з %2$d</string>
     <string name="check_apk_update">Перевірити наявність оновлень</string>
     <string name="child_account_system_ad_disable_hint">Ця функція недоступна для дитячих акаунтів</string>
-    <string name="clear_text_end_icon_content_description">Видалити текст</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="close">Закрити</string>
     <string name="close_drawer">Закрити меню навігації</string>
@@ -199,13 +195,11 @@
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="error_dup_binded_email">"Ця адреса ел. пошти пов'язана з іншим Xiaomi акаунтом."</string>
-    <string name="error_icon_content_description">Помилка</string>
     <string name="error_invalid_bind_address">Неправильна адреса ел. пошти.</string>
     <string name="evening">Після обіду</string>
     <string name="exceed_binded_phone_times_notice">"Цей номер телефону пов'язаний з іншим Xiaomi акаунтом."</string>
     <string name="exit">Вийти</string>
     <string name="expand_button_title">Додатково</string>
-    <string name="exposed_dropdown_menu_content_description">Показати спадне меню</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Увійти через Facebook</string>
     <string name="failed_dup_secure_phone_number">"Цей номер телефону пов'язаний з іншим Xiaomi акаунтом"</string>
@@ -332,7 +326,6 @@
     <string name="help_center">Довідка</string>
     <string name="i_agree">ОК</string>
     <string name="i_agree_continue">Погодитися</string>
-    <string name="icon_content_description">Значок вікна</string>
     <string name="identity">Ідентифікація</string>
     <string name="in_progress">Виконується</string>
     <string name="inconsistent_pwd">Паролі не збігаються</string>
@@ -341,7 +334,6 @@
     <string name="input_new_pwd">Введіть новий пароль</string>
     <string name="input_ps">Введіть пароль</string>
     <string name="io_error_title">Підтвердіть вашу мережу</string>
-    <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_second">Секунду…</string>
     <string name="keep_phone_ticket_login">Увійти за допомогою коду перевірки</string>
     <string name="kr_license_desc">Перед використанням Xiaomi акаунту та сервісів Xiaomi Сloud ви повинні прийняти нашу Угоду користувача та Політику конфіденційності.</string>
@@ -361,18 +353,6 @@
     <string name="login_with_other">Додаткові параметри</string>
     <string name="logout_account">Вихід</string>
     <string name="logout_failed">Не вдається вийти з акаунту</string>
-    <string name="material_clock_toggle_content_description">Виберіть ДП чи ПП</string>
-    <string name="material_hour_selection">Вибрати годину</string>
-    <string name="material_hour_suffix">%1$s год</string>
-    <string name="material_minute_selection">Виберіть хвилини</string>
-    <string name="material_minute_suffix">%1$s хв</string>
-    <string name="material_timepicker_am">дп</string>
-    <string name="material_timepicker_clock_mode_description">Перейти в режим годинника, щоб ввести час.</string>
-    <string name="material_timepicker_hour">Година</string>
-    <string name="material_timepicker_minute">Хвилина</string>
-    <string name="material_timepicker_pm">пп</string>
-    <string name="material_timepicker_select_time">Виберіть час</string>
-    <string name="material_timepicker_text_input_mode_description">Перейти в текстовий режим, щоб ввести час.</string>
     <string name="mi_account">Мій акаунт</string>
     <string name="mi_health">"Xiaomi Здоров'я"</string>
     <string name="midnight">Ніч</string>
@@ -389,6 +369,7 @@
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>
@@ -443,38 +424,6 @@
     <string name="month_september_shortest">Вер</string>
     <string name="more">Ще</string>
     <string name="morning">Ранок</string>
-    <string name="mtrl_badge_numberless_content_description">Нове сповіщення</string>
-    <string name="mtrl_chip_close_icon_content_description">Видалити %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Нових сповіщень більше ніж %1$d</string>
-    <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
-    <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
-    <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Виберіть дату</string>
-    <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
-    <string name="mtrl_picker_day_of_week_column_header">Стовпець із днями: %1$s</string>
-    <string name="mtrl_picker_invalid_format">Недійсний формат.</string>
-    <string name="mtrl_picker_invalid_format_example">Приклад: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Використовувати: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Недійсний діапазон.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Перейти до %1$s року</string>
-    <string name="mtrl_picker_out_of_range">За межами діапазону: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Дата початку – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата завершення</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Виберіть діапазон дат</string>
-    <string name="mtrl_picker_range_header_unselected">Дата початку – дата завершення</string>
-    <string name="mtrl_picker_save">Зберегти</string>
-    <string name="mtrl_picker_text_input_date_hint">Дата</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Дата завершення</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Дата початку</string>
-    <string name="mtrl_picker_text_input_day_abbr">д</string>
-    <string name="mtrl_picker_text_input_month_abbr">м</string>
-    <string name="mtrl_picker_text_input_year_abbr">р</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим введення в календарі</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Натисніть, щоб вибрати день</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим введення тексту</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Натисніть, щоб вибрати рік</string>
     <string name="multi_user_not_show_sync_activity_message_1">Схоже, що ви використовуєте Перший простір у вашому Xiaomi акаунті.</string>
     <string name="multi_user_not_show_sync_activity_message_2">В цьому випадку всі дані будуть синхронізовані з вашим Другим простором. Щоб уникнути цього, не вмикайте синхронізацію з Xiaomi Cloud.</string>
     <string name="multi_user_not_show_sync_activity_title">Не вмикати синхронізацію з Xiaomi Cloud</string>
@@ -811,7 +760,6 @@
     <string name="passport_wrong_phone_number_format">Неправильний формат номеру телефону</string>
     <string name="passport_wrong_vcode">Неправильний перевірний код</string>
     <string name="passport_wrong_voice">Неправильний код</string>
-    <string name="password_toggle_content_description">Показувати пароль</string>
     <string name="password_view_hide_password">Приховати пароль</string>
     <string name="password_view_show_password">Показати пароль</string>
     <string name="permission_group_contacts">Контакти</string>
@@ -854,7 +802,7 @@
     <string name="request_use_camera_title">Доступ до камери</string>
     <string name="request_use_gallery_message">Надати Xiaomi акаунту доступ до Галереї?</string>
     <string name="request_use_gallery_title">Доступ до Галереї</string>
-    <string name="request_use_writing_clipboard_message">Щоб скопіювати ідентифікатор Xiaomi акаунту, дозвольте Xiaomi акаунту зберігати дані до буферу обміну.</string>
+    <string name="request_use_writing_clipboard_message">Щоб скопіювати ідентифікатор Xiaomi акаунту, дозвольте Xiaomi акаунту зберігати дані до буфера обміну.</string>
     <string name="resend_email_reach_limit_message">Ви надіслали забагато запитів перевірочного листа. Переконайтеся, що перевірочний лист не знаходиться в папці Спам.</string>
     <string name="restart_action">Почати знову</string>
     <string name="restart_phone_bind_message">Отримання SMS може зайняти деякий час. Все одно почати знову?</string>
@@ -973,7 +921,7 @@
 %2$d. Якщо ви не можете виконати скидання пароля або хтось заблокував ваш пристрій, перейдіть на i.mi.com, щоб розблокувати його.
 %3$d. Ваш код розблокування: %4$s"</string>
     <string name="update_apk_version_later">Не зараз</string>
-    <string name="update_apk_version_now">Оновити</string>
+    <string name="update_apk_version_now">Встановити</string>
     <string name="update_email_address_dialog_message">Необхідно підтвердити достовірність акаунту перед оновленням ел. пошти.</string>
     <string name="update_email_address_dialog_title">Оновити Email</string>
     <string name="update_phone_notice">Налаштування безпеки</string>
@@ -985,7 +933,6 @@
     <string name="user_agreement_read_phone_permission_desc">Для входу в систему за номером телефона</string>
     <string name="user_agreement_read_phone_permission_title">Читати телефонні номери</string>
     <string name="user_agreement_use_account_msg">Акаунт Xiaomi дозволяє отримати доступ до всіх послуг, які надає Xiaomi.</string>
-    <string name="user_agreement_wifi_permission_title">Вмикання та вимикання Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Для перевірки мережевого оточення на наявність вразливостей</string>
     <string name="user_agreement_wlan_permission_title_china">Увімкнення та вимкнення WLAN</string>
     <string name="user_avatar_update_title">Змінити фото профілю</string>

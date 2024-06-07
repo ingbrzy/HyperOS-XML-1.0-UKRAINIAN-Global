@@ -69,39 +69,57 @@
         <item>Я</item>
         <item>\#</item>
     </string-array>
-    <string-array name="attachment_chooser">
-        <item>Камера</item>
-        <item>Галерея</item>
-    </string-array>
-    <string-array name="big_screen_layouts">
-        <item>@string/setting_big_screen_layout_columns</item>
-        <item>@string/setting_big_screen_layout_flat</item>
-    </string-array>
     <string-array name="contact_entries">
-        <item>Ім’я</item>
+        <item>"Ім'я"</item>
         <item>Нік</item>
         <item>Телефон</item>
         <item>Email</item>
-        <item>Компанія</item>
+        <item>Організація</item>
         <item>IM</item>
         <item>SIP телефон</item>
         <item>День народження</item>
         <item>Сайт</item>
         <item>Адреса</item>
-        <item>Нотатка</item>
+        <item>Примітка</item>
+        <item>Родич</item>
     </string-array>
-    <string-array name="font_size_names">
-        <item>Дрібний</item>
-        <item>Середній</item>
-        <item>Великий</item>
-        <item>Дуже великий</item>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Рекламні повідомлення від %s</item>
+        <item>Інформаційні повідомлення від %s</item>
+        <item>Фінансові повідомлення від %s</item>
     </string-array>
-    <string-array name="note_sort_way">
-        <item>За датою створення</item>
-        <item>За датою редагування</item>
+    <string-array name="entries_mms_validity_period">
+        <item>Максимум</item>
+        <item>2 дні</item>
     </string-array>
-    <string-array name="setting_phone_note_layout_way">
-        <item>@string/action_mode_switcher_list_description</item>
-        <item>@string/action_mode_switcher_grid_description</item>
+    <string-array name="entries_pref_key_voice_report">
+        <item>@string/voice_report_wiredon</item>
+        <item>@string/voice_report_anytime</item>
+        <item>@string/voice_report_off</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Не встановлено</item>
+        <item>1 година</item>
+        <item>6 годин</item>
+        <item>12 годин</item>
+        <item>1 день</item>
+        <item>Максимум</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Тільки у режимі \"Без звуку\"</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Через MMS</item>
+        <item>Через хмарне повідомлення</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Через SMS</item>
+        <item>Через хмарне повідомлення</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Mi повідомлення</item>
+        <item>CMCC Smart SMS</item>
     </string-array>
 </resources>

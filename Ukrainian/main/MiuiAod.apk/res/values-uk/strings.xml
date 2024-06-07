@@ -396,6 +396,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>
@@ -553,6 +554,7 @@ mm"</string>
     <string name="somatosensory_temperature_format">Відчувається як %s°</string>
     <string name="standard_clock_panel">Стандартний</string>
     <string name="standard_style">Стандартний</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">"Кількість кроків надається програмою Xiaomi Здоров'я. Погодьтеся з Умовами використання Xiaomi Здоров'я для продовження."</string>
     <string name="step_component_info_desc">"Кількість кроків перетворюється на трофей, коли ви досягнете мети. Кількість кроків надається програмою Xiaomi Здоров'я."</string>
     <string name="step_component_info_tip">"Кількість кроків надається програмою Xiaomi Здоров'я. Встановіть або оновіть Xiaomi Здоров'я та погодьтеся з її Умовами використання для продовження."</string>

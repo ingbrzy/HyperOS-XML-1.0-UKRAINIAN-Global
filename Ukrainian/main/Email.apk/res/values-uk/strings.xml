@@ -33,7 +33,6 @@
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="close">Закрити</string>
     <string name="copy">Скопіювати</string>
-    <string name="copy_toast_msg">Посилання скопійовано в буфер обміну</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -45,9 +44,6 @@
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
-    <string name="fallback_menu_item_copy_link">Копіювати посилання</string>
-    <string name="fallback_menu_item_open_in_browser">Відкрити у веб-переглядачі</string>
-    <string name="fallback_menu_item_share_link">Надіслати посилання</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -193,6 +189,7 @@
     <string name="size_peta_byte">Пб</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>

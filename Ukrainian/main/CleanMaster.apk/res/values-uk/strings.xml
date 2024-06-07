@@ -304,6 +304,7 @@
     <string name="download">Завантажити</string>
     <string name="downloading">Завантаження</string>
     <string name="early_morning">Ранок</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Порожньо</string>
     <string name="empty_content_no_privacy">Порожньо</string>
     <string name="empty_content_no_similar_image">Немає фото</string>
@@ -491,6 +492,7 @@
     <string name="hints_garbage_cleanup_result_safe">Очищення не потрібно</string>
     <string name="hints_garbage_handle_item_content">Файлів: %1$d | %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Порожньо</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Рідко використовувалися</string>
     <string name="hints_installed_app_near">Використовувалася нещодавно</string>
     <string name="hints_installed_app_never">Ніколи не використовувалися</string>
@@ -577,6 +579,7 @@
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>

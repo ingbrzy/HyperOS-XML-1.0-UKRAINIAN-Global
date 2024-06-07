@@ -91,13 +91,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Передача функцій програми</item>
-        <item>"Взаємопов'язаність/Передача функцій програми"</item>
+        <item>"Взаємопов'язаність/Програми"</item>
         <item>Передача програм, передача функцій, передача</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Виклики</item>
-        <item>"Взаємопов'язаність/Виклики"</item>
-        <item>Виклики</item>
+        <item>Call sync</item>
+        <item>Interconnectivity/Call sync</item>
+        <item>Call sync, cross-device calls, call handoff, calls</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Асистент для мережі</item>

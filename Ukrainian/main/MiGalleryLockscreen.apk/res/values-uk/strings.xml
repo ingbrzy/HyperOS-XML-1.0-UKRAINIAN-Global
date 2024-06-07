@@ -122,10 +122,14 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Вибрати</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ще</string>
     <string name="miuix_appcompat_cancel_description">Скасувати</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Синхронізацію із хмарою вимкнено</string>
+    <string name="miuix_appcompat_cloud_state_finished">Синхронізація із хмарою завершена</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Синхронізація із хмарою…</string>
     <string name="miuix_appcompat_confirm_description">Підтвердити</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
     <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
+    <string name="miuix_appcompat_edit">Змінити</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
     <string name="miuix_appcompat_select_all">Вибрати все</string>
@@ -139,6 +143,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Більше нічого немає</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвилинку…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не вдалося завантажити елементи</string>
+    <string name="miuix_search_action_mode_cancel">Скасувати</string>
+    <string name="miuix_search_history_clear">Очистити історію пошуку</string>
+    <string name="miuix_search_history_default_title">Історія пошуку</string>
+    <string name="miuix_search_recommendation_default_title">Можливо, вам це буде цікаво</string>
+    <string name="miuix_search_recommendation_item_del_des">Видалити</string>
     <string name="monday">Понеділок</string>
     <string name="monday_short">Пон</string>
     <string name="monday_shortest">Пн</string>
@@ -361,6 +370,7 @@ mm"</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Пошук</string>
     <string name="send">Надіслати</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
