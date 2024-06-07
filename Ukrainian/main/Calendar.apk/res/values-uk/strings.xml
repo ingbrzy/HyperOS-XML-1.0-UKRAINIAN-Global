@@ -70,7 +70,7 @@
     <string name="app_label">Календар</string>
     <string name="app_not_found">Не вдалося знайти вибрану програму</string>
     <string name="aqi_level">ІЯП %d</string>
-    <string name="attendees">参与人</string>
+    <string name="attendees">Учасник</string>
     <string name="average_cycle_days">Середня тривалість циклу</string>
     <string name="average_menstruation_days">Середня тривалість менструації</string>
     <string name="birthday_born">дата народження</string>
